@@ -1,0 +1,381 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=2.7"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/micawber-0.5.4-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/LICENSE",
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/METADATA",
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/RECORD",
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/WHEEL",
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/micawber-0.5.4.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/micawber/__init__.py",
+    "lib/python3.9/site-packages/micawber/cache.py",
+    "lib/python3.9/site-packages/micawber/compat.py",
+    "lib/python3.9/site-packages/micawber/contrib/__init__.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/__init__.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/__init__.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/models.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/tests.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/models.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/providers.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templates/micawber/link.html",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templates/micawber/photo.html",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templates/micawber/rich.html",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templates/micawber/video.html",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templatetags/__init__.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templatetags/micawber_tags.py",
+    "lib/python3.9/site-packages/micawber/contrib/mcflask.py",
+    "lib/python3.9/site-packages/micawber/contrib/providers.py",
+    "lib/python3.9/site-packages/micawber/exceptions.py",
+    "lib/python3.9/site-packages/micawber/parsers.py",
+    "lib/python3.9/site-packages/micawber/providers.py",
+    "lib/python3.9/site-packages/micawber/test_utils.py",
+    "lib/python3.9/site-packages/micawber/tests.py",
+    "lib/python3.9/site-packages/micawber/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/__pycache__/cache.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/__pycache__/compat.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/__pycache__/models.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/__pycache__/tests.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/__pycache__/models.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/__pycache__/providers.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templatetags/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/mcdjango/templatetags/__pycache__/micawber_tags.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/__pycache__/mcflask.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/contrib/__pycache__/providers.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/__pycache__/exceptions.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/__pycache__/parsers.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/__pycache__/providers.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/__pycache__/test_utils.cpython-39.pyc",
+    "lib/python3.9/site-packages/micawber/__pycache__/tests.cpython-39.pyc"
+  ],
+  "fn": "micawber-0.5.4-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/micawber-0.5.4-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "30184186488a1c3411cb5e4351741009",
+  "name": "micawber",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/micawber-0.5.4-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "3740096125b08735a247b8dd08cd82e0ba984d3bebd9221d378576637e5240da",
+        "sha256_in_prefix": "3740096125b08735a247b8dd08cd82e0ba984d3bebd9221d378576637e5240da",
+        "size_in_bytes": 1058
+      },
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "75bdcd451c5291aa58b8ba343371c8f4ce6a49163968fa0e1dc55401937aa2d0",
+        "sha256_in_prefix": "75bdcd451c5291aa58b8ba343371c8f4ce6a49163968fa0e1dc55401937aa2d0",
+        "size_in_bytes": 2797
+      },
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "33304d5c512505deff1f84b92da26fcefb3d40ae211a89b0263dbd6fbba907d4",
+        "sha256_in_prefix": "33304d5c512505deff1f84b92da26fcefb3d40ae211a89b0263dbd6fbba907d4",
+        "size_in_bytes": 3940
+      },
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a33a22d41e27dc72aaab64e2636d814455a75adfeb5ba5f201bb0693a31d33ff",
+        "sha256_in_prefix": "a33a22d41e27dc72aaab64e2636d814455a75adfeb5ba5f201bb0693a31d33ff",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/micawber-0.5.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "eff5728fdcdd6482c472876212a94f9028d9c84dcf65a838fb32d78d29e39f12",
+        "sha256_in_prefix": "eff5728fdcdd6482c472876212a94f9028d9c84dcf65a838fb32d78d29e39f12",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/micawber/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d47bc820a3c64391a0c0d4f8fec61dc0c592bc7c826953276671d7f6d01ed948",
+        "sha256_in_prefix": "d47bc820a3c64391a0c0d4f8fec61dc0c592bc7c826953276671d7f6d01ed948",
+        "size_in_bytes": 687
+      },
+      {
+        "_path": "site-packages/micawber/cache.py",
+        "path_type": "hardlink",
+        "sha256": "62752dae69fd802997c16dac9d24fd966e869fdb4584dfb9f51381f0685e2b61",
+        "sha256_in_prefix": "62752dae69fd802997c16dac9d24fd966e869fdb4584dfb9f51381f0685e2b61",
+        "size_in_bytes": 1532
+      },
+      {
+        "_path": "site-packages/micawber/compat.py",
+        "path_type": "hardlink",
+        "sha256": "c0d59a87fae0e370dd537bb37e8a69d3f626d7757af6c5546647470e3d2dd281",
+        "sha256_in_prefix": "c0d59a87fae0e370dd537bb37e8a69d3f626d7757af6c5546647470e3d2dd281",
+        "size_in_bytes": 9664
+      },
+      {
+        "_path": "site-packages/micawber/contrib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b0c24157ca06f94514ee7f92a16096e49a55771bf1ed1925471891affa3e4493",
+        "sha256_in_prefix": "b0c24157ca06f94514ee7f92a16096e49a55771bf1ed1925471891affa3e4493",
+        "size_in_bytes": 3090
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/mcdjango_tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/mcdjango_tests/models.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/mcdjango_tests/tests.py",
+        "path_type": "hardlink",
+        "sha256": "66c35ce58bea31edc0eb5f7041e09e32c5f1acc7d3b9486759449561e03e6732",
+        "sha256_in_prefix": "66c35ce58bea31edc0eb5f7041e09e32c5f1acc7d3b9486759449561e03e6732",
+        "size_in_bytes": 4929
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/models.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/providers.py",
+        "path_type": "hardlink",
+        "sha256": "40bc08492933a5df521916752d926531ebb57906166a7125f1a32e7140abc4c1",
+        "sha256_in_prefix": "40bc08492933a5df521916752d926531ebb57906166a7125f1a32e7140abc4c1",
+        "size_in_bytes": 425
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/templates/micawber/link.html",
+        "path_type": "hardlink",
+        "sha256": "bb4cd8120b9b806dc52377e7d39501328284e808ce5dc8bf5cb176c2c36631e3",
+        "sha256_in_prefix": "bb4cd8120b9b806dc52377e7d39501328284e808ce5dc8bf5cb176c2c36631e3",
+        "size_in_bytes": 83
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/templates/micawber/photo.html",
+        "path_type": "hardlink",
+        "sha256": "bc7fb827722aea9ad48faa6b48862f57ba497de490ea3d02facf14fc9d84c0cf",
+        "sha256_in_prefix": "bc7fb827722aea9ad48faa6b48862f57ba497de490ea3d02facf14fc9d84c0cf",
+        "size_in_bytes": 122
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/templates/micawber/rich.html",
+        "path_type": "hardlink",
+        "sha256": "4c2499f7d7c50618fad032c6f07d8b2f9e11714dca4c9ccb188e49a8fd0a10ea",
+        "sha256_in_prefix": "4c2499f7d7c50618fad032c6f07d8b2f9e11714dca4c9ccb188e49a8fd0a10ea",
+        "size_in_bytes": 25
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/templates/micawber/video.html",
+        "path_type": "hardlink",
+        "sha256": "4c2499f7d7c50618fad032c6f07d8b2f9e11714dca4c9ccb188e49a8fd0a10ea",
+        "sha256_in_prefix": "4c2499f7d7c50618fad032c6f07d8b2f9e11714dca4c9ccb188e49a8fd0a10ea",
+        "size_in_bytes": 25
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/templatetags/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcdjango/templatetags/micawber_tags.py",
+        "path_type": "hardlink",
+        "sha256": "7cdf29b1a96d2bf9d0e54ec7a41970b472ce8027e4f11337ae013a86a04d5e4c",
+        "sha256_in_prefix": "7cdf29b1a96d2bf9d0e54ec7a41970b472ce8027e4f11337ae013a86a04d5e4c",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "site-packages/micawber/contrib/mcflask.py",
+        "path_type": "hardlink",
+        "sha256": "ed4160cea39a9e320d5139521b87b06dccd2ef438711b9ad0bf82743925bb91d",
+        "sha256_in_prefix": "ed4160cea39a9e320d5139521b87b06dccd2ef438711b9ad0bf82743925bb91d",
+        "size_in_bytes": 837
+      },
+      {
+        "_path": "site-packages/micawber/contrib/providers.py",
+        "path_type": "hardlink",
+        "sha256": "02682b2e1d534ed69ff19f290d6c35a249a6cdc634ac6390fef348cab1f267e8",
+        "sha256_in_prefix": "02682b2e1d534ed69ff19f290d6c35a249a6cdc634ac6390fef348cab1f267e8",
+        "size_in_bytes": 1715
+      },
+      {
+        "_path": "site-packages/micawber/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "1e7856c845ae4ab1ccf8a6530cb0c8051138e1efb916d8fdc049404006f8967c",
+        "sha256_in_prefix": "1e7856c845ae4ab1ccf8a6530cb0c8051138e1efb916d8fdc049404006f8967c",
+        "size_in_bytes": 168
+      },
+      {
+        "_path": "site-packages/micawber/parsers.py",
+        "path_type": "hardlink",
+        "sha256": "940d06f4df9fbac430e2c9476950de7810322443e609098d3a5eb7568a95adfb",
+        "sha256_in_prefix": "940d06f4df9fbac430e2c9476950de7810322443e609098d3a5eb7568a95adfb",
+        "size_in_bytes": 6742
+      },
+      {
+        "_path": "site-packages/micawber/providers.py",
+        "path_type": "hardlink",
+        "sha256": "a66a82103cf3788aa368bf1beb8e1fc0a2f2a71c2bd678e4200ec9cc7f752f68",
+        "sha256_in_prefix": "a66a82103cf3788aa368bf1beb8e1fc0a2f2a71c2bd678e4200ec9cc7f752f68",
+        "size_in_bytes": 11896
+      },
+      {
+        "_path": "site-packages/micawber/test_utils.py",
+        "path_type": "hardlink",
+        "sha256": "3a04bb47b20e4d0373b5f6fe62f8931cbe46794722db03a37d75520093d2f1e1",
+        "sha256_in_prefix": "3a04bb47b20e4d0373b5f6fe62f8931cbe46794722db03a37d75520093d2f1e1",
+        "size_in_bytes": 4033
+      },
+      {
+        "_path": "site-packages/micawber/tests.py",
+        "path_type": "hardlink",
+        "sha256": "90fb9e55da21e05a28248494b032841422ad81fa000df53a3986f521fa278651",
+        "sha256_in_prefix": "90fb9e55da21e05a28248494b032841422ad81fa000df53a3986f521fa278651",
+        "size_in_bytes": 14965
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/cache.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/compat.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/__pycache__/models.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/mcdjango_tests/__pycache__/tests.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/__pycache__/models.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/__pycache__/providers.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/templatetags/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/mcdjango/templatetags/__pycache__/micawber_tags.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/__pycache__/mcflask.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/contrib/__pycache__/providers.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/parsers.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/providers.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/test_utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/micawber/__pycache__/tests.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6e6055e35cbd136493965fc599cdde93741a013dadc85d04087e8d3b485ffe1b",
+  "size": 21422,
+  "subdir": "noarch",
+  "timestamp": 1626248014210,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/micawber-0.5.4-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.5.4"
+}

@@ -1,0 +1,380 @@
+{
+  "build": "pyhd3deb0d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "pandas",
+    "python"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/vega_datasets-0.9.0-pyhd3deb0d_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/LICENSE",
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/vega_datasets-0.9.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/vega_datasets/__init__.py",
+    "lib/python3.9/site-packages/vega_datasets/_data/airports.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/anscombe.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/barley.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/burtin.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/cars.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/crimea.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/driving.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/iowa-electricity.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/iris.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/la-riots.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/ohlc.json",
+    "lib/python3.9/site-packages/vega_datasets/_data/seattle-temps.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/seattle-weather.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/sf-temps.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/stocks.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/us-employment.csv",
+    "lib/python3.9/site-packages/vega_datasets/_data/wheat.json",
+    "lib/python3.9/site-packages/vega_datasets/core.py",
+    "lib/python3.9/site-packages/vega_datasets/dataset_info.json",
+    "lib/python3.9/site-packages/vega_datasets/datasets.json",
+    "lib/python3.9/site-packages/vega_datasets/local_datasets.json",
+    "lib/python3.9/site-packages/vega_datasets/tests/__init__.py",
+    "lib/python3.9/site-packages/vega_datasets/tests/test_core.py",
+    "lib/python3.9/site-packages/vega_datasets/tests/test_download.py",
+    "lib/python3.9/site-packages/vega_datasets/tests/test_errors.py",
+    "lib/python3.9/site-packages/vega_datasets/tests/test_local_datasets.py",
+    "lib/python3.9/site-packages/vega_datasets/tests/test_metadata.py",
+    "lib/python3.9/site-packages/vega_datasets/utils.py",
+    "lib/python3.9/site-packages/vega_datasets/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/__pycache__/core.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_core.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_download.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_errors.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_local_datasets.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/vega_datasets/__pycache__/utils.cpython-39.pyc"
+  ],
+  "fn": "vega_datasets-0.9.0-pyhd3deb0d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/vega_datasets-0.9.0-pyhd3deb0d_0",
+    "type": 1
+  },
+  "md5": "c754e69d9d5de4a69ff0972318349bd0",
+  "name": "vega_datasets",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/vega_datasets-0.9.0-pyhd3deb0d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "eef52740cbc46a37b26f1c527c337e7e8cf6983d46f03ba4c052eca2d904a4f2",
+        "sha256_in_prefix": "eef52740cbc46a37b26f1c527c337e7e8cf6983d46f03ba4c052eca2d904a4f2",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4a03db10bb689ef901523f0b895b6ab38c053e84ad17d6e5656d72dcd0c5fa22",
+        "sha256_in_prefix": "4a03db10bb689ef901523f0b895b6ab38c053e84ad17d6e5656d72dcd0c5fa22",
+        "size_in_bytes": 5543
+      },
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4b93fe8f8215c450ada76e09bbd5e203840202c8c4645386ad2132f21c747116",
+        "sha256_in_prefix": "4b93fe8f8215c450ada76e09bbd5e203840202c8c4645386ad2132f21c747116",
+        "size_in_bytes": 3852
+      },
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "33d36979f0823a64028e01a6621eb3127aaca7dd6ee2acf41e13df4bae5ab6ef",
+        "sha256_in_prefix": "33d36979f0823a64028e01a6621eb3127aaca7dd6ee2acf41e13df4bae5ab6ef",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/vega_datasets-0.9.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "38af016f9a7c9558a0937c5a4127fe88b2b4064682e9a4e86a43067907d31cbe",
+        "sha256_in_prefix": "38af016f9a7c9558a0937c5a4127fe88b2b4064682e9a4e86a43067907d31cbe",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "site-packages/vega_datasets/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "08b142b744d765829bfe43a76ecb18a636da5e49c6ce96033e59295906f14424",
+        "sha256_in_prefix": "08b142b744d765829bfe43a76ecb18a636da5e49c6ce96033e59295906f14424",
+        "size_in_bytes": 133
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/airports.csv",
+        "path_type": "hardlink",
+        "sha256": "903c7169e6d558eefb95295fe2947ec8503135fbb855ea5c737cf4a90ea603ad",
+        "sha256_in_prefix": "903c7169e6d558eefb95295fe2947ec8503135fbb855ea5c737cf4a90ea603ad",
+        "size_in_bytes": 210365
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/anscombe.json",
+        "path_type": "hardlink",
+        "sha256": "8d7e41be7499509836485a0a2104a07b1d85ed96e4ef9eb32c437128c429040b",
+        "sha256_in_prefix": "8d7e41be7499509836485a0a2104a07b1d85ed96e4ef9eb32c437128c429040b",
+        "size_in_bytes": 1703
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/barley.json",
+        "path_type": "hardlink",
+        "sha256": "800faf5a0524e2145822a72af7821e153b80ad3433631f4bd30100b24c9fa2bc",
+        "sha256_in_prefix": "800faf5a0524e2145822a72af7821e153b80ad3433631f4bd30100b24c9fa2bc",
+        "size_in_bytes": 8487
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/burtin.json",
+        "path_type": "hardlink",
+        "sha256": "443a3c2dc37f86dc26259e5ab1b4719180ccc811260f390b15518f05bbbbaf24",
+        "sha256_in_prefix": "443a3c2dc37f86dc26259e5ab1b4719180ccc811260f390b15518f05bbbbaf24",
+        "size_in_bytes": 2743
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/cars.json",
+        "path_type": "hardlink",
+        "sha256": "f686a53678b21f4231e2f6a5ba7ce5761d9d39204fccdea1caa29fb8c460e319",
+        "sha256_in_prefix": "f686a53678b21f4231e2f6a5ba7ce5761d9d39204fccdea1caa29fb8c460e319",
+        "size_in_bytes": 100492
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/crimea.json",
+        "path_type": "hardlink",
+        "sha256": "92e4928821e7665d7bca4cc21e0fa86e80417d5c08faadbe316ee8933e2b5459",
+        "sha256_in_prefix": "92e4928821e7665d7bca4cc21e0fa86e80417d5c08faadbe316ee8933e2b5459",
+        "size_in_bytes": 1737
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/driving.json",
+        "path_type": "hardlink",
+        "sha256": "25a7e2d987372c77db93a85b68ffc58c20be09870378478b2faa4d9209910c15",
+        "sha256_in_prefix": "25a7e2d987372c77db93a85b68ffc58c20be09870378478b2faa4d9209910c15",
+        "size_in_bytes": 3461
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/iowa-electricity.csv",
+        "path_type": "hardlink",
+        "sha256": "6071c2e657d91509885a1f3eec0884b2854d66990b5c556dbead15e263f9506b",
+        "sha256_in_prefix": "6071c2e657d91509885a1f3eec0884b2854d66990b5c556dbead15e263f9506b",
+        "size_in_bytes": 1531
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/iris.json",
+        "path_type": "hardlink",
+        "sha256": "aade78d96082ffb9512b237eeeee6e805edc6db0b16947d27ad23c53b8266ce1",
+        "sha256_in_prefix": "aade78d96082ffb9512b237eeeee6e805edc6db0b16947d27ad23c53b8266ce1",
+        "size_in_bytes": 15802
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/la-riots.csv",
+        "path_type": "hardlink",
+        "sha256": "90884a2c333e45c172446211edadcb0201957b6b9a378525fa8fd10f4856734a",
+        "sha256_in_prefix": "90884a2c333e45c172446211edadcb0201957b6b9a378525fa8fd10f4856734a",
+        "size_in_bytes": 7432
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/ohlc.json",
+        "path_type": "hardlink",
+        "sha256": "a0ad3ef04c1bb5ac98c564f87fdb79f095ad109a20e569719b2e19bea5e4a7c9",
+        "sha256_in_prefix": "a0ad3ef04c1bb5ac98c564f87fdb79f095ad109a20e569719b2e19bea5e4a7c9",
+        "size_in_bytes": 5737
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/seattle-temps.csv",
+        "path_type": "hardlink",
+        "sha256": "c220666521ff4bec4ffb6f0d9acfdc5c1056564b1aad6f78d3b06aa0a0c8b085",
+        "sha256_in_prefix": "c220666521ff4bec4ffb6f0d9acfdc5c1056564b1aad6f78d3b06aa0a0c8b085",
+        "size_in_bytes": 192707
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/seattle-weather.csv",
+        "path_type": "hardlink",
+        "sha256": "62f0609f787158128aa2bd102967173a4953122dd4f872bf1d502cae1037df0b",
+        "sha256_in_prefix": "62f0609f787158128aa2bd102967173a4953122dd4f872bf1d502cae1037df0b",
+        "size_in_bytes": 47838
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/sf-temps.csv",
+        "path_type": "hardlink",
+        "sha256": "3f91699707cfed43ef551394bebef4c2ebe5505157b9be7bff9558eea2fbaaec",
+        "sha256_in_prefix": "3f91699707cfed43ef551394bebef4c2ebe5505157b9be7bff9558eea2fbaaec",
+        "size_in_bytes": 218985
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/stocks.csv",
+        "path_type": "hardlink",
+        "sha256": "f9953ac6693e587476b4ebf2f0b00d9bb95371ca8c39da4cc6155077b3e417cd",
+        "sha256_in_prefix": "f9953ac6693e587476b4ebf2f0b00d9bb95371ca8c39da4cc6155077b3e417cd",
+        "size_in_bytes": 12245
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/us-employment.csv",
+        "path_type": "hardlink",
+        "sha256": "0fa5366929bf738ac420509b84ed120155f740b0fa9c265ca309dad4057d1b1b",
+        "sha256_in_prefix": "0fa5366929bf738ac420509b84ed120155f740b0fa9c265ca309dad4057d1b1b",
+        "size_in_bytes": 17841
+      },
+      {
+        "_path": "site-packages/vega_datasets/_data/wheat.json",
+        "path_type": "hardlink",
+        "sha256": "f81aca0a91d8f60ea04526d03d7e878fce3dd01847e02e409cab63776b9a41b4",
+        "sha256_in_prefix": "f81aca0a91d8f60ea04526d03d7e878fce3dd01847e02e409cab63776b9a41b4",
+        "size_in_bytes": 2085
+      },
+      {
+        "_path": "site-packages/vega_datasets/core.py",
+        "path_type": "hardlink",
+        "sha256": "20056c5f46821f3f29fb25219f6376681cbf057c8bf5ba70883417b04d81b82a",
+        "sha256_in_prefix": "20056c5f46821f3f29fb25219f6376681cbf057c8bf5ba70883417b04d81b82a",
+        "size_in_bytes": 15614
+      },
+      {
+        "_path": "site-packages/vega_datasets/dataset_info.json",
+        "path_type": "hardlink",
+        "sha256": "339ad2d8f8ffb5a5250673d5914d3bbfae3399c5f4f4ed7fdc98293f96fa29e6",
+        "sha256_in_prefix": "339ad2d8f8ffb5a5250673d5914d3bbfae3399c5f4f4ed7fdc98293f96fa29e6",
+        "size_in_bytes": 7898
+      },
+      {
+        "_path": "site-packages/vega_datasets/datasets.json",
+        "path_type": "hardlink",
+        "sha256": "e09baf0bd5c2604ba2b1f6ca4aa46e013ba82125f23c1845f9157df3d28d09f6",
+        "sha256_in_prefix": "e09baf0bd5c2604ba2b1f6ca4aa46e013ba82125f23c1845f9157df3d28d09f6",
+        "size_in_bytes": 5474
+      },
+      {
+        "_path": "site-packages/vega_datasets/local_datasets.json",
+        "path_type": "hardlink",
+        "sha256": "57e08a6aaa25f5ef694609bd4499acb9744cfd6656cf2cf934804ed27e1229b8",
+        "sha256_in_prefix": "57e08a6aaa25f5ef694609bd4499acb9744cfd6656cf2cf934804ed27e1229b8",
+        "size_in_bytes": 625
+      },
+      {
+        "_path": "site-packages/vega_datasets/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/vega_datasets/tests/test_core.py",
+        "path_type": "hardlink",
+        "sha256": "dbaacdce66682ec55e2cfb14948f08109448dcdd55bd4dc1962c01f149373873",
+        "sha256_in_prefix": "dbaacdce66682ec55e2cfb14948f08109448dcdd55bd4dc1962c01f149373873",
+        "size_in_bytes": 345
+      },
+      {
+        "_path": "site-packages/vega_datasets/tests/test_download.py",
+        "path_type": "hardlink",
+        "sha256": "0da6e8e00fba07343b0d3d8b69d5358229bc31b0ec806e9b82876e670d5574ac",
+        "sha256_in_prefix": "0da6e8e00fba07343b0d3d8b69d5358229bc31b0ec806e9b82876e670d5574ac",
+        "size_in_bytes": 1937
+      },
+      {
+        "_path": "site-packages/vega_datasets/tests/test_errors.py",
+        "path_type": "hardlink",
+        "sha256": "142cfca74994c4ea889099589d9f1a8ea3c61f0bc28155cac5b9d83475f8fab7",
+        "sha256_in_prefix": "142cfca74994c4ea889099589d9f1a8ea3c61f0bc28155cac5b9d83475f8fab7",
+        "size_in_bytes": 948
+      },
+      {
+        "_path": "site-packages/vega_datasets/tests/test_local_datasets.py",
+        "path_type": "hardlink",
+        "sha256": "92e3f0b07ef8afd8aecd242996b54976afa4ca9f136b922cb323a4d3aa1869cb",
+        "sha256_in_prefix": "92e3f0b07ef8afd8aecd242996b54976afa4ca9f136b922cb323a4d3aa1869cb",
+        "size_in_bytes": 2226
+      },
+      {
+        "_path": "site-packages/vega_datasets/tests/test_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "abcbf7ab5f2a3059bc08ee4e0d7f8450db7d0de50f5ba6b95599449944c05513",
+        "sha256_in_prefix": "abcbf7ab5f2a3059bc08ee4e0d7f8450db7d0de50f5ba6b95599449944c05513",
+        "size_in_bytes": 935
+      },
+      {
+        "_path": "site-packages/vega_datasets/utils.py",
+        "path_type": "hardlink",
+        "sha256": "5fab1e62736e70698f155278752b3ac9d859d0ee6bf1fa343dd27b212378f492",
+        "sha256_in_prefix": "5fab1e62736e70698f155278752b3ac9d859d0ee6bf1fa343dd27b212378f492",
+        "size_in_bytes": 594
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/__pycache__/core.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_core.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_download.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_errors.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_local_datasets.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/tests/__pycache__/test_metadata.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/vega_datasets/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8dbed6cb5f1f861940af3bd2bc6ed05b1134878b5f944a0386b8268c54d882aa",
+  "size": 183450,
+  "subdir": "noarch",
+  "timestamp": 1606414171959,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/vega_datasets-0.9.0-pyhd3deb0d_0.tar.bz2",
+  "version": "0.9.0"
+}

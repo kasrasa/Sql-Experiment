@@ -1,0 +1,315 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "backoff >=1.10.0,<2.0.0",
+    "monotonic >=1.5.0,<2.0.0",
+    "python >=3.7.0,<4.0.0",
+    "python-dateutil >=2.1.0,<3.0.0",
+    "requests >=2.7.0,<3.0.0",
+    "six >=1.5.0,<2.0.0"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/posthog-1.4.4-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/LICENSE",
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/METADATA",
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/RECORD",
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/WHEEL",
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/posthog-1.4.4.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/posthog/__init__.py",
+    "lib/python3.9/site-packages/posthog/client.py",
+    "lib/python3.9/site-packages/posthog/consumer.py",
+    "lib/python3.9/site-packages/posthog/poller.py",
+    "lib/python3.9/site-packages/posthog/request.py",
+    "lib/python3.9/site-packages/posthog/sentry/__init__.py",
+    "lib/python3.9/site-packages/posthog/sentry/django.py",
+    "lib/python3.9/site-packages/posthog/sentry/posthog_integration.py",
+    "lib/python3.9/site-packages/posthog/test/__init__.py",
+    "lib/python3.9/site-packages/posthog/test/test_client.py",
+    "lib/python3.9/site-packages/posthog/test/test_consumer.py",
+    "lib/python3.9/site-packages/posthog/test/test_module.py",
+    "lib/python3.9/site-packages/posthog/test/test_request.py",
+    "lib/python3.9/site-packages/posthog/test/test_utils.py",
+    "lib/python3.9/site-packages/posthog/utils.py",
+    "lib/python3.9/site-packages/posthog/version.py",
+    "lib/python3.9/site-packages/posthog/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/__pycache__/client.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/__pycache__/consumer.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/__pycache__/poller.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/__pycache__/request.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/sentry/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/sentry/__pycache__/django.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/sentry/__pycache__/posthog_integration.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/test/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/test/__pycache__/test_client.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/test/__pycache__/test_consumer.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/test/__pycache__/test_module.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/test/__pycache__/test_request.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/test/__pycache__/test_utils.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/__pycache__/utils.cpython-39.pyc",
+    "lib/python3.9/site-packages/posthog/__pycache__/version.cpython-39.pyc"
+  ],
+  "fn": "posthog-1.4.4-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/posthog-1.4.4-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "ad58c4a64ec561f925b1fe059104a33c",
+  "name": "posthog",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/posthog-1.4.4-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "3d9215cb922a01d2ff04c47a5d63d01e5d437cd8165985b665251b66f6d889f9",
+        "sha256_in_prefix": "3d9215cb922a01d2ff04c47a5d63d01e5d437cd8165985b665251b66f6d889f9",
+        "size_in_bytes": 1127
+      },
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9e2b4f3347689c74b4ab67c44a4446fdf2cb48812e276629f24108a4c74a4495",
+        "sha256_in_prefix": "9e2b4f3347689c74b4ab67c44a4446fdf2cb48812e276629f24108a4c74a4495",
+        "size_in_bytes": 1923
+      },
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1f42da2c62f7203ee54eecc43abe76de1f34e07c4e0b29062c6b3b8f99230013",
+        "sha256_in_prefix": "1f42da2c62f7203ee54eecc43abe76de1f34e07c4e0b29062c6b3b8f99230013",
+        "size_in_bytes": 2793
+      },
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "sha256_in_prefix": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b6341ad4dcdf664ac52509ca87bc58871dfcecee952b8c82cdc604a98d0d8487",
+        "sha256_in_prefix": "b6341ad4dcdf664ac52509ca87bc58871dfcecee952b8c82cdc604a98d0d8487",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/posthog-1.4.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ec504bb118c850754a42c5c8868cee23793e9ae9f5b5aa69f2264ef449943c4c",
+        "sha256_in_prefix": "ec504bb118c850754a42c5c8868cee23793e9ae9f5b5aa69f2264ef449943c4c",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/posthog/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e27a6568ac85fb9b0f013596992a92e768dbd8da4c35051d95857dc9108fa81e",
+        "sha256_in_prefix": "e27a6568ac85fb9b0f013596992a92e768dbd8da4c35051d95857dc9108fa81e",
+        "size_in_bytes": 8708
+      },
+      {
+        "_path": "site-packages/posthog/client.py",
+        "path_type": "hardlink",
+        "sha256": "5f38564c39baf3ff10f24afe6f4331882aa28f76b943163f108fd3e9235d2dd0",
+        "sha256_in_prefix": "5f38564c39baf3ff10f24afe6f4331882aa28f76b943163f108fd3e9235d2dd0",
+        "size_in_bytes": 14047
+      },
+      {
+        "_path": "site-packages/posthog/consumer.py",
+        "path_type": "hardlink",
+        "sha256": "dc2053ef36135833f14137ada504a8aa585f7f510152e3d58013cf03f127cb0b",
+        "sha256_in_prefix": "dc2053ef36135833f14137ada504a8aa585f7f510152e3d58013cf03f127cb0b",
+        "size_in_bytes": 4306
+      },
+      {
+        "_path": "site-packages/posthog/poller.py",
+        "path_type": "hardlink",
+        "sha256": "8c1cf9adf1ff927fdb073ef0081e3a169beca38b6dc78bb3a88656bd70421664",
+        "sha256_in_prefix": "8c1cf9adf1ff927fdb073ef0081e3a169beca38b6dc78bb3a88656bd70421664",
+        "size_in_bytes": 595
+      },
+      {
+        "_path": "site-packages/posthog/request.py",
+        "path_type": "hardlink",
+        "sha256": "856a99390358540382e515fc61a592faa34a9490c0b23e116e03d8b83fb91ed1",
+        "sha256_in_prefix": "856a99390358540382e515fc61a592faa34a9490c0b23e116e03d8b83fb91ed1",
+        "size_in_bytes": 3725
+      },
+      {
+        "_path": "site-packages/posthog/sentry/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e2c0ad826c0695168e2528f0f78f347c66ae11652cd81a72853650e844a60cc7",
+        "sha256_in_prefix": "e2c0ad826c0695168e2528f0f78f347c66ae11652cd81a72853650e844a60cc7",
+        "size_in_bytes": 39
+      },
+      {
+        "_path": "site-packages/posthog/sentry/django.py",
+        "path_type": "hardlink",
+        "sha256": "4b15f98d4bd02dd3258e9f331ba4e7011c69de219f181f7ccab09b402d2adf5e",
+        "sha256_in_prefix": "4b15f98d4bd02dd3258e9f331ba4e7011c69de219f181f7ccab09b402d2adf5e",
+        "size_in_bytes": 757
+      },
+      {
+        "_path": "site-packages/posthog/sentry/posthog_integration.py",
+        "path_type": "hardlink",
+        "sha256": "381dedc8bed811358e1af3911c40858aca532e6964ba3dc17ab98fdf20a31bca",
+        "sha256_in_prefix": "381dedc8bed811358e1af3911c40858aca532e6964ba3dc17ab98fdf20a31bca",
+        "size_in_bytes": 1991
+      },
+      {
+        "_path": "site-packages/posthog/test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "55880ceb13db25bbd2fb184870388146cd0c142f55fe34fae6e35e7ab0b3feb3",
+        "sha256_in_prefix": "55880ceb13db25bbd2fb184870388146cd0c142f55fe34fae6e35e7ab0b3feb3",
+        "size_in_bytes": 299
+      },
+      {
+        "_path": "site-packages/posthog/test/test_client.py",
+        "path_type": "hardlink",
+        "sha256": "3eb961f57826984dec866ea6e2baca754a4b493ee7e4b69cb608ff277eb4354c",
+        "sha256_in_prefix": "3eb961f57826984dec866ea6e2baca754a4b493ee7e4b69cb608ff277eb4354c",
+        "size_in_bytes": 19184
+      },
+      {
+        "_path": "site-packages/posthog/test/test_consumer.py",
+        "path_type": "hardlink",
+        "sha256": "ab13d642dd2312daf0ba3177165ad7ede2ac5d4901c6a4a56432a65e44d75a64",
+        "sha256_in_prefix": "ab13d642dd2312daf0ba3177165ad7ede2ac5d4901c6a4a56432a65e44d75a64",
+        "size_in_bytes": 6326
+      },
+      {
+        "_path": "site-packages/posthog/test/test_module.py",
+        "path_type": "hardlink",
+        "sha256": "34b4ee5de5b9b481705c64da470a8d5ed6e2c8824eb928fe959067075b4204e4",
+        "sha256_in_prefix": "34b4ee5de5b9b481705c64da470a8d5ed6e2c8824eb928fe959067075b4204e4",
+        "size_in_bytes": 982
+      },
+      {
+        "_path": "site-packages/posthog/test/test_request.py",
+        "path_type": "hardlink",
+        "sha256": "3e75a6d65e06e31d666f7fe009cb4bc12d8531b0a86728b0adc8eebcde504a75",
+        "sha256_in_prefix": "3e75a6d65e06e31d666f7fe009cb4bc12d8531b0a86728b0adc8eebcde504a75",
+        "size_in_bytes": 1702
+      },
+      {
+        "_path": "site-packages/posthog/test/test_utils.py",
+        "path_type": "hardlink",
+        "sha256": "c030906abf69e975ae370f693aa4734785282e8479f72ef581553037a28a4aed",
+        "sha256_in_prefix": "c030906abf69e975ae370f693aa4734785282e8479f72ef581553037a28a4aed",
+        "size_in_bytes": 2540
+      },
+      {
+        "_path": "site-packages/posthog/utils.py",
+        "path_type": "hardlink",
+        "sha256": "2ce784ffc9f90882096371615c9a858ec890cbb49d1d5e8c644fe5a31fe27737",
+        "sha256_in_prefix": "2ce784ffc9f90882096371615c9a858ec890cbb49d1d5e8c644fe5a31fe27737",
+        "size_in_bytes": 2485
+      },
+      {
+        "_path": "site-packages/posthog/version.py",
+        "path_type": "hardlink",
+        "sha256": "05b74dbdb7efde8086d9f711c4043a23ef5b9958425b6f4e6e80837ecdb57587",
+        "sha256_in_prefix": "05b74dbdb7efde8086d9f711c4043a23ef5b9958425b6f4e6e80837ecdb57587",
+        "size_in_bytes": 73
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/__pycache__/client.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/__pycache__/consumer.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/__pycache__/poller.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/__pycache__/request.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/sentry/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/sentry/__pycache__/django.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/sentry/__pycache__/posthog_integration.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/test/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/test/__pycache__/test_client.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/test/__pycache__/test_consumer.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/test/__pycache__/test_module.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/test/__pycache__/test_request.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/test/__pycache__/test_utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/posthog/__pycache__/version.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "04a344c130be6ea4500fa2773c3d770b456eda9c3d481e263b619a31a9493fdb",
+  "size": 22204,
+  "subdir": "noarch",
+  "timestamp": 1637865367547,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/posthog-1.4.4-pyhd8ed1ab_0.tar.bz2",
+  "version": "1.4.4"
+}

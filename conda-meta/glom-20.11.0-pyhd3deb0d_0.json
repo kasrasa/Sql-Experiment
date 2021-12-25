@@ -1,0 +1,511 @@
+{
+  "build": "pyhd3deb0d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "attrs",
+    "boltons",
+    "face",
+    "python"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/glom-20.11.0-pyhd3deb0d_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/LICENSE",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/entry_points.txt",
+    "lib/python3.9/site-packages/glom-20.11.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/glom/__init__.py",
+    "lib/python3.9/site-packages/glom/__main__.py",
+    "lib/python3.9/site-packages/glom/_version.py",
+    "lib/python3.9/site-packages/glom/chainmap_backport.py",
+    "lib/python3.9/site-packages/glom/cli.py",
+    "lib/python3.9/site-packages/glom/core.py",
+    "lib/python3.9/site-packages/glom/grouping.py",
+    "lib/python3.9/site-packages/glom/matching.py",
+    "lib/python3.9/site-packages/glom/mutation.py",
+    "lib/python3.9/site-packages/glom/reduction.py",
+    "lib/python3.9/site-packages/glom/streaming.py",
+    "lib/python3.9/site-packages/glom/test/__init__.py",
+    "lib/python3.9/site-packages/glom/test/data/test_invalid.yaml",
+    "lib/python3.9/site-packages/glom/test/data/test_valid.yaml",
+    "lib/python3.9/site-packages/glom/test/perf_report.py",
+    "lib/python3.9/site-packages/glom/test/test_basic.py",
+    "lib/python3.9/site-packages/glom/test/test_check.py",
+    "lib/python3.9/site-packages/glom/test/test_cli.py",
+    "lib/python3.9/site-packages/glom/test/test_error.py",
+    "lib/python3.9/site-packages/glom/test/test_fill.py",
+    "lib/python3.9/site-packages/glom/test/test_grouping.py",
+    "lib/python3.9/site-packages/glom/test/test_match.py",
+    "lib/python3.9/site-packages/glom/test/test_mutation.py",
+    "lib/python3.9/site-packages/glom/test/test_path_and_t.py",
+    "lib/python3.9/site-packages/glom/test/test_reduction.py",
+    "lib/python3.9/site-packages/glom/test/test_scope_vars.py",
+    "lib/python3.9/site-packages/glom/test/test_spec.py",
+    "lib/python3.9/site-packages/glom/test/test_streaming.py",
+    "lib/python3.9/site-packages/glom/test/test_target_types.py",
+    "lib/python3.9/site-packages/glom/test/test_tutorial.py",
+    "lib/python3.9/site-packages/glom/tutorial.py",
+    "lib/python3.9/site-packages/glom/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/__main__.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/_version.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/chainmap_backport.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/cli.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/core.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/grouping.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/matching.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/mutation.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/reduction.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/streaming.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/perf_report.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_basic.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_check.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_cli.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_error.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_fill.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_grouping.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_match.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_mutation.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_path_and_t.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_reduction.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_scope_vars.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_spec.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_streaming.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_target_types.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/test/__pycache__/test_tutorial.cpython-39.pyc",
+    "lib/python3.9/site-packages/glom/__pycache__/tutorial.cpython-39.pyc",
+    "bin/glom"
+  ],
+  "fn": "glom-20.11.0-pyhd3deb0d_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/glom-20.11.0-pyhd3deb0d_0",
+    "type": 1
+  },
+  "md5": "201b1ee9125b9244e0c90c51346c7544",
+  "name": "glom",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/glom-20.11.0-pyhd3deb0d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c642862bf261c6d05d89766e68801bd8225d508205776a04fb1ace9866b5b66f",
+        "sha256_in_prefix": "c642862bf261c6d05d89766e68801bd8225d508205776a04fb1ace9866b5b66f",
+        "size_in_bytes": 1497
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c0179b3267dfb86a9c12097dfdc03d984747061732ff27f2dcdf97314855a222",
+        "sha256_in_prefix": "c0179b3267dfb86a9c12097dfdc03d984747061732ff27f2dcdf97314855a222",
+        "size_in_bytes": 4825
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ac1d359b93663c2d3bce19402517283e33225fca4a6d4e6d2c07fc14a2bdbaef",
+        "sha256_in_prefix": "ac1d359b93663c2d3bce19402517283e33225fca4a6d4e6d2c07fc14a2bdbaef",
+        "size_in_bytes": 4720
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "sha256_in_prefix": "00329ec9a1b2285e43c01344d2c444e69bd6f9b4a414c25f06e873677adc78fe",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8f86153b8c7d9b2bd954edfed69b5245ea97e391b8b6fc3b97f0d493bf3fa39e",
+        "sha256_in_prefix": "8f86153b8c7d9b2bd954edfed69b5245ea97e391b8b6fc3b97f0d493bf3fa39e",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "7f7a5c89b0419100b462860424f7dbff4053dc2055f1e2e033f720813374d6f6",
+        "sha256_in_prefix": "7f7a5c89b0419100b462860424f7dbff4053dc2055f1e2e033f720813374d6f6",
+        "size_in_bytes": 48
+      },
+      {
+        "_path": "site-packages/glom-20.11.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5a227448b77fd8a36b49e55cf99088dac1073d89005089edd602639b755706b1",
+        "sha256_in_prefix": "5a227448b77fd8a36b49e55cf99088dac1073d89005089edd602639b755706b1",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/glom/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "00e1aa3c10e497311e99f930569d1bddd8999c5500edd67ed3d30ebaa9ffc6bf",
+        "sha256_in_prefix": "00e1aa3c10e497311e99f930569d1bddd8999c5500edd67ed3d30ebaa9ffc6bf",
+        "size_in_bytes": 1874
+      },
+      {
+        "_path": "site-packages/glom/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "2918749cd2269817ae49abf469a225496e5098abc1646ed9b092019a11c0da3c",
+        "sha256_in_prefix": "2918749cd2269817ae49abf469a225496e5098abc1646ed9b092019a11c0da3c",
+        "size_in_bytes": 82
+      },
+      {
+        "_path": "site-packages/glom/_version.py",
+        "path_type": "hardlink",
+        "sha256": "153899233fecd4defb0977e49553a6f237f8f0ba971546845a50e5679d69ce5a",
+        "sha256_in_prefix": "153899233fecd4defb0977e49553a6f237f8f0ba971546845a50e5679d69ce5a",
+        "size_in_bytes": 113
+      },
+      {
+        "_path": "site-packages/glom/chainmap_backport.py",
+        "path_type": "hardlink",
+        "sha256": "74a81d30f3de658ca45d43af409f737514f5b4b5304753b8e2954c091f8846ad",
+        "sha256_in_prefix": "74a81d30f3de658ca45d43af409f737514f5b4b5304753b8e2954c091f8846ad",
+        "size_in_bytes": 5134
+      },
+      {
+        "_path": "site-packages/glom/cli.py",
+        "path_type": "hardlink",
+        "sha256": "69b2705fa53bc3a822f0a4f74100e543dc162dce4b2f7e3b55f35ba0370bd581",
+        "sha256_in_prefix": "69b2705fa53bc3a822f0a4f74100e543dc162dce4b2f7e3b55f35ba0370bd581",
+        "size_in_bytes": 7389
+      },
+      {
+        "_path": "site-packages/glom/core.py",
+        "path_type": "hardlink",
+        "sha256": "84ca35ff3d8701c0d29b8c8c91ba453b7575a1faeb0abfc645a6516caf334452",
+        "sha256_in_prefix": "84ca35ff3d8701c0d29b8c8c91ba453b7575a1faeb0abfc645a6516caf334452",
+        "size_in_bytes": 84014
+      },
+      {
+        "_path": "site-packages/glom/grouping.py",
+        "path_type": "hardlink",
+        "sha256": "6daaae5ad3d03e84a37b80665343c7de69ab9e7ac311e26d9913ff96f60d7e53",
+        "sha256_in_prefix": "6daaae5ad3d03e84a37b80665343c7de69ab9e7ac311e26d9913ff96f60d7e53",
+        "size_in_bytes": 9291
+      },
+      {
+        "_path": "site-packages/glom/matching.py",
+        "path_type": "hardlink",
+        "sha256": "86b477ef04a8c3e0be107262913b0f814002c7abb2a35b17bb08a0c1a54db9ca",
+        "sha256_in_prefix": "86b477ef04a8c3e0be107262913b0f814002c7abb2a35b17bb08a0c1a54db9ca",
+        "size_in_bytes": 36894
+      },
+      {
+        "_path": "site-packages/glom/mutation.py",
+        "path_type": "hardlink",
+        "sha256": "d851ce4e1c6435d0b6975ae6a87438a6b8f618043bae21784d5b3e3bfc0aab0c",
+        "sha256_in_prefix": "d851ce4e1c6435d0b6975ae6a87438a6b8f618043bae21784d5b3e3bfc0aab0c",
+        "size_in_bytes": 12473
+      },
+      {
+        "_path": "site-packages/glom/reduction.py",
+        "path_type": "hardlink",
+        "sha256": "244b7009fe914d061a2f03dbe40e2f3c37fb1429b064652334839cb35ee2028b",
+        "sha256_in_prefix": "244b7009fe914d061a2f03dbe40e2f3c37fb1429b064652334839cb35ee2028b",
+        "size_in_bytes": 11714
+      },
+      {
+        "_path": "site-packages/glom/streaming.py",
+        "path_type": "hardlink",
+        "sha256": "e3183402f49dbcbb91fda802cf99ad03e5f41187e9aa67c11b3b447a4eb1bf17",
+        "sha256_in_prefix": "e3183402f49dbcbb91fda802cf99ad03e5f41187e9aa67c11b3b447a4eb1bf17",
+        "size_in_bytes": 14122
+      },
+      {
+        "_path": "site-packages/glom/test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/glom/test/data/test_invalid.yaml",
+        "path_type": "hardlink",
+        "sha256": "a5de9f6a4b0a10d16777fc47f58e96271303682d0c7fbd439a034d824e6f5b08",
+        "sha256_in_prefix": "a5de9f6a4b0a10d16777fc47f58e96271303682d0c7fbd439a034d824e6f5b08",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/glom/test/data/test_valid.yaml",
+        "path_type": "hardlink",
+        "sha256": "0d40245ac0403c81a09e8521140c9ef50da30d8031efc6aef25fcb44be24362a",
+        "sha256_in_prefix": "0d40245ac0403c81a09e8521140c9ef50da30d8031efc6aef25fcb44be24362a",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "site-packages/glom/test/perf_report.py",
+        "path_type": "hardlink",
+        "sha256": "ffb0e5b69c483e095a94fb9982fd891a6bc5ebc5bfa630c97ddc0c6f79deea9a",
+        "sha256_in_prefix": "ffb0e5b69c483e095a94fb9982fd891a6bc5ebc5bfa630c97ddc0c6f79deea9a",
+        "size_in_bytes": 1970
+      },
+      {
+        "_path": "site-packages/glom/test/test_basic.py",
+        "path_type": "hardlink",
+        "sha256": "41bed4cb286504a8f1b22d1488f634711f55b0f05ff11cfc19a8004c9dbb24df",
+        "sha256_in_prefix": "41bed4cb286504a8f1b22d1488f634711f55b0f05ff11cfc19a8004c9dbb24df",
+        "size_in_bytes": 14079
+      },
+      {
+        "_path": "site-packages/glom/test/test_check.py",
+        "path_type": "hardlink",
+        "sha256": "0ff65f728f93a31a5137d701ba0868e563deac1cd70b6c6577e309065bcaea3b",
+        "sha256_in_prefix": "0ff65f728f93a31a5137d701ba0868e563deac1cd70b6c6577e309065bcaea3b",
+        "size_in_bytes": 3541
+      },
+      {
+        "_path": "site-packages/glom/test/test_cli.py",
+        "path_type": "hardlink",
+        "sha256": "aacaf88611521f004a58e0d5623da9eefb77fc77c3665245562ea81062d893a3",
+        "sha256_in_prefix": "aacaf88611521f004a58e0d5623da9eefb77fc77c3665245562ea81062d893a3",
+        "size_in_bytes": 5117
+      },
+      {
+        "_path": "site-packages/glom/test/test_error.py",
+        "path_type": "hardlink",
+        "sha256": "e229b3e79053aa286af697d59523228e65077d4fb92ab5fbe7100c0e691c79bf",
+        "sha256_in_prefix": "e229b3e79053aa286af697d59523228e65077d4fb92ab5fbe7100c0e691c79bf",
+        "size_in_bytes": 18501
+      },
+      {
+        "_path": "site-packages/glom/test/test_fill.py",
+        "path_type": "hardlink",
+        "sha256": "bba9a52291035bec99fb89969f9b2a50641ded20efdcdb3252ebf547f08ae61f",
+        "sha256_in_prefix": "bba9a52291035bec99fb89969f9b2a50641ded20efdcdb3252ebf547f08ae61f",
+        "size_in_bytes": 708
+      },
+      {
+        "_path": "site-packages/glom/test/test_grouping.py",
+        "path_type": "hardlink",
+        "sha256": "4d460ca515ec5c954c5a8da036b189e690f294c7d48c8ca4b529d5f0c3a9d542",
+        "sha256_in_prefix": "4d460ca515ec5c954c5a8da036b189e690f294c7d48c8ca4b529d5f0c3a9d542",
+        "size_in_bytes": 3353
+      },
+      {
+        "_path": "site-packages/glom/test/test_match.py",
+        "path_type": "hardlink",
+        "sha256": "6301542a2a93d419dddd50771d2ea8b6f2bb09951372c8856950ba6de5a7e15c",
+        "sha256_in_prefix": "6301542a2a93d419dddd50771d2ea8b6f2bb09951372c8856950ba6de5a7e15c",
+        "size_in_bytes": 15326
+      },
+      {
+        "_path": "site-packages/glom/test/test_mutation.py",
+        "path_type": "hardlink",
+        "sha256": "21445ea9d552d57b0d95eb0330be44e81303918e991a1d0c0738b94b9a0bded3",
+        "sha256_in_prefix": "21445ea9d552d57b0d95eb0330be44e81303918e991a1d0c0738b94b9a0bded3",
+        "size_in_bytes": 9269
+      },
+      {
+        "_path": "site-packages/glom/test/test_path_and_t.py",
+        "path_type": "hardlink",
+        "sha256": "a6d0fa5e93a0e7db5f5ca0ea63a6b7914afb9be0ec21bc6a6cc21b4a37293d28",
+        "sha256_in_prefix": "a6d0fa5e93a0e7db5f5ca0ea63a6b7914afb9be0ec21bc6a6cc21b4a37293d28",
+        "size_in_bytes": 7606
+      },
+      {
+        "_path": "site-packages/glom/test/test_reduction.py",
+        "path_type": "hardlink",
+        "sha256": "ba4b2fa8b2a8aa7c920acf0e1c655b2c63566ca86fc1601e148ae3bc75d039c5",
+        "sha256_in_prefix": "ba4b2fa8b2a8aa7c920acf0e1c655b2c63566ca86fc1601e148ae3bc75d039c5",
+        "size_in_bytes": 4160
+      },
+      {
+        "_path": "site-packages/glom/test/test_scope_vars.py",
+        "path_type": "hardlink",
+        "sha256": "bafa6c8e95aaedad3e0411c6dea6d25871e555f2eb8f1715a0209373eea66d23",
+        "sha256_in_prefix": "bafa6c8e95aaedad3e0411c6dea6d25871e555f2eb8f1715a0209373eea66d23",
+        "size_in_bytes": 3441
+      },
+      {
+        "_path": "site-packages/glom/test/test_spec.py",
+        "path_type": "hardlink",
+        "sha256": "48cd06af023346a169cf45b2330739150452538f2fea755c984eb582ecac6866",
+        "sha256_in_prefix": "48cd06af023346a169cf45b2330739150452538f2fea755c984eb582ecac6866",
+        "size_in_bytes": 746
+      },
+      {
+        "_path": "site-packages/glom/test/test_streaming.py",
+        "path_type": "hardlink",
+        "sha256": "bb60a3a57dc5ba10872f1dd828c4015fe099126a86e404a6074d09225789c84b",
+        "sha256_in_prefix": "bb60a3a57dc5ba10872f1dd828c4015fe099126a86e404a6074d09225789c84b",
+        "size_in_bytes": 5665
+      },
+      {
+        "_path": "site-packages/glom/test/test_target_types.py",
+        "path_type": "hardlink",
+        "sha256": "d100bf5d5ef2858ab04cdd1fdb7b97a63d5ddcb2413d34b5a49e8724aaf7863c",
+        "sha256_in_prefix": "d100bf5d5ef2858ab04cdd1fdb7b97a63d5ddcb2413d34b5a49e8724aaf7863c",
+        "size_in_bytes": 7749
+      },
+      {
+        "_path": "site-packages/glom/test/test_tutorial.py",
+        "path_type": "hardlink",
+        "sha256": "87416a3a8c84d9d310edfc1eeb3fecb5037a4d9b5a71a41531363211000825b3",
+        "sha256_in_prefix": "87416a3a8c84d9d310edfc1eeb3fecb5037a4d9b5a71a41531363211000825b3",
+        "size_in_bytes": 464
+      },
+      {
+        "_path": "site-packages/glom/tutorial.py",
+        "path_type": "hardlink",
+        "sha256": "33a85a64dac89a046169dc097735c59c06e34ed91a42de0bd8b58262fa5bb14b",
+        "sha256_in_prefix": "33a85a64dac89a046169dc097735c59c06e34ed91a42de0bd8b58262fa5bb14b",
+        "size_in_bytes": 17617
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/_version.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/chainmap_backport.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/cli.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/core.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/grouping.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/matching.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/mutation.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/reduction.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/streaming.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/perf_report.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_basic.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_check.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_cli.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_error.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_fill.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_grouping.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_match.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_mutation.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_path_and_t.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_reduction.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_scope_vars.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_spec.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_streaming.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_target_types.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/test/__pycache__/test_tutorial.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/glom/__pycache__/tutorial.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/glom",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b87ee70c9518bc1a5b5fcb4ec6eec7a4dba129e58026fdae314e2bff9d096d3e",
+  "size": 78962,
+  "subdir": "noarch",
+  "timestamp": 1605053072108,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/glom-20.11.0-pyhd3deb0d_0.tar.bz2",
+  "version": "20.11.0"
+}

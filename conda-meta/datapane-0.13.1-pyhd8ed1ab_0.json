@@ -1,0 +1,840 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "flit-core >=3.0.0,<3.1.0",
+    "plotly >=4.0.0,<6.0.0",
+    "matplotlib-base >=3.0.0,<4.0.0",
+    "bokeh >=2.2.0,<2.3.0",
+    "folium >=0.12.0,<0.13.0"
+  ],
+  "depends": [
+    "altair >=4.0.0,<5.0.0",
+    "boltons >=20.0.0,<22.0.0",
+    "chardet >=3.0.4,<5.0.0",
+    "click >=7.1.0,<9.0.0",
+    "click-spinner >=0.1.8,<0.2.0",
+    "colorlog >=4.1.0,<7.0.0",
+    "dacite >=1.5.0,<2.0.0",
+    "dominate >=2.4.0,<3.0.0",
+    "furl >=2.0.0,<3.0.0",
+    "glom >=20.5.0,<21.0.0",
+    "importlib_resources >=3.0.0,<6.0.0",
+    "jinja2 >=2.11.0,<4.0.0",
+    "jsonschema >=3.2.0,<5.0.0",
+    "lxml >=4.0.0,<5.0.0",
+    "micawber >=0.5.0,<0.6.0",
+    "munch >=2.3.0,<3.0.0",
+    "nbconvert >=5.6.1,<7.0.0",
+    "packaging >=20.0.0,<22.0.0",
+    "pandas >=1.1.0,<2.0.0",
+    "posthog >=1.4.0,<2.0.0",
+    "pyarrow >=3.0.0,<6.0.0",
+    "pydantic >=1.6.0,<2.0.0",
+    "python >=3.7.1,<4.0.0",
+    "pyyaml >=6.0.0,<7.0.0",
+    "requests >=2.19.0,<3.0.0",
+    "requests-toolbelt >=0.9.1,<0.10.0",
+    "stringcase >=1.2.0,<2.0.0",
+    "tabulate >=0.8.0,<0.9.0",
+    "toolz >=0.11.0,<0.12.0",
+    "validators >=0.18.0,<0.19.0",
+    "vega_datasets >=0.9.0,<1.0.0"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/datapane-0.13.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/NOTICE",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/LICENSE",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/METADATA",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/RECORD",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/WHEEL",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/datapane-0.13.1.dist-info/entry_points.txt",
+    "lib/python3.9/site-packages/datapane/__init__.py",
+    "lib/python3.9/site-packages/datapane/client/__init__.py",
+    "lib/python3.9/site-packages/datapane/client/__main__.py",
+    "lib/python3.9/site-packages/datapane/client/analytics.py",
+    "lib/python3.9/site-packages/datapane/client/api/__init__.py",
+    "lib/python3.9/site-packages/datapane/client/api/builtins.py",
+    "lib/python3.9/site-packages/datapane/client/api/common.py",
+    "lib/python3.9/site-packages/datapane/client/api/dp_object.py",
+    "lib/python3.9/site-packages/datapane/client/api/files.py",
+    "lib/python3.9/site-packages/datapane/client/api/files_optional.py",
+    "lib/python3.9/site-packages/datapane/client/api/report/__init__.py",
+    "lib/python3.9/site-packages/datapane/client/api/report/blocks.py",
+    "lib/python3.9/site-packages/datapane/client/api/report/core.py",
+    "lib/python3.9/site-packages/datapane/client/api/runtime.py",
+    "lib/python3.9/site-packages/datapane/client/api/teams.py",
+    "lib/python3.9/site-packages/datapane/client/api/user.py",
+    "lib/python3.9/site-packages/datapane/client/apps/__init__.py",
+    "lib/python3.9/site-packages/datapane/client/apps/builder.py",
+    "lib/python3.9/site-packages/datapane/client/apps/config.py",
+    "lib/python3.9/site-packages/datapane/client/commands.py",
+    "lib/python3.9/site-packages/datapane/client/config.py",
+    "lib/python3.9/site-packages/datapane/client/utils.py",
+    "lib/python3.9/site-packages/datapane/common/__init__.py",
+    "lib/python3.9/site-packages/datapane/common/config.py",
+    "lib/python3.9/site-packages/datapane/common/datafiles.py",
+    "lib/python3.9/site-packages/datapane/common/df_processor.py",
+    "lib/python3.9/site-packages/datapane/common/dp_types.py",
+    "lib/python3.9/site-packages/datapane/common/report.py",
+    "lib/python3.9/site-packages/datapane/common/utils.py",
+    "lib/python3.9/site-packages/datapane/common/versioning.py",
+    "lib/python3.9/site-packages/datapane/resources/__init__.py",
+    "lib/python3.9/site-packages/datapane/resources/app_parameter_def.schema.json",
+    "lib/python3.9/site-packages/datapane/resources/local_report/README.md",
+    "lib/python3.9/site-packages/datapane/resources/local_report/__init__.py",
+    "lib/python3.9/site-packages/datapane/resources/local_report/datapane-logo-dark.png",
+    "lib/python3.9/site-packages/datapane/resources/local_report/local-report-base.css",
+    "lib/python3.9/site-packages/datapane/resources/local_report/local-report-base.js",
+    "lib/python3.9/site-packages/datapane/resources/local_report/template.html",
+    "lib/python3.9/site-packages/datapane/resources/mime.types",
+    "lib/python3.9/site-packages/datapane/resources/report_def/__init__.py",
+    "lib/python3.9/site-packages/datapane/resources/report_def/full_schema.rnc",
+    "lib/python3.9/site-packages/datapane/resources/report_def/full_schema.rng",
+    "lib/python3.9/site-packages/datapane/resources/report_def/local_post_process.xslt",
+    "lib/python3.9/site-packages/datapane/resources/templates/__init__.py",
+    "lib/python3.9/site-packages/datapane/resources/templates/app/README.md",
+    "lib/python3.9/site-packages/datapane/resources/templates/app/datapane.yaml",
+    "lib/python3.9/site-packages/datapane/resources/templates/app/dp_app.py",
+    "lib/python3.9/site-packages/datapane/resources/templates/datapane-logo.png",
+    "lib/python3.9/site-packages/datapane/resources/templates/hello/__init__.py",
+    "lib/python3.9/site-packages/datapane/resources/templates/hello/hello.py",
+    "lib/python3.9/site-packages/datapane/resources/templates/hello/world.py",
+    "lib/python3.9/site-packages/datapane/resources/templates/report_ipynb/dp_report.ipynb",
+    "lib/python3.9/site-packages/datapane/resources/templates/report_py/dp_report.py",
+    "lib/python3.9/site-packages/datapane/runner/__init__.py",
+    "lib/python3.9/site-packages/datapane/runner/__main__.py",
+    "lib/python3.9/site-packages/datapane/runner/exceptions.py",
+    "lib/python3.9/site-packages/datapane/runner/exec_script.py",
+    "lib/python3.9/site-packages/datapane/runner/typedefs.py",
+    "lib/python3.9/site-packages/datapane/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/__pycache__/__main__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/__pycache__/analytics.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/builtins.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/common.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/dp_object.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/files.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/files_optional.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/report/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/report/__pycache__/blocks.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/report/__pycache__/core.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/runtime.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/teams.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/api/__pycache__/user.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/apps/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/apps/__pycache__/builder.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/apps/__pycache__/config.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/__pycache__/commands.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/__pycache__/config.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/client/__pycache__/utils.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/config.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/datafiles.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/df_processor.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/dp_types.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/report.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/utils.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/common/__pycache__/versioning.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/local_report/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/report_def/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/templates/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/templates/app/__pycache__/dp_app.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/templates/hello/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/templates/hello/__pycache__/hello.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/templates/hello/__pycache__/world.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/resources/templates/report_py/__pycache__/dp_report.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/runner/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/runner/__pycache__/__main__.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/runner/__pycache__/exceptions.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/runner/__pycache__/exec_script.cpython-39.pyc",
+    "lib/python3.9/site-packages/datapane/runner/__pycache__/typedefs.cpython-39.pyc",
+    "bin/datapane",
+    "bin/dp-runner"
+  ],
+  "fn": "datapane-0.13.1-pyhd8ed1ab_0.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/datapane-0.13.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "ba168323abb17e7909ea7326a6b76d04",
+  "name": "datapane",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/datapane-0.13.1-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/NOTICE",
+        "path_type": "hardlink",
+        "sha256": "149a8216d03d7bed527b6c3fabc7ab2c67db54d75a6ae3764847ebe256134f29",
+        "sha256_in_prefix": "149a8216d03d7bed527b6c3fabc7ab2c67db54d75a6ae3764847ebe256134f29",
+        "size_in_bytes": 77
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9",
+        "sha256_in_prefix": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9",
+        "size_in_bytes": 10173
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "6dfcb391c4831776f456b4ed293b07bc6a529b4b9121633e6bf0930898830d44",
+        "sha256_in_prefix": "6dfcb391c4831776f456b4ed293b07bc6a529b4b9121633e6bf0930898830d44",
+        "size_in_bytes": 11662
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "5d599722f187d55367b6780a5880a58da34d52f3f0f9283c390eb31de9abe8e5",
+        "sha256_in_prefix": "5d599722f187d55367b6780a5880a58da34d52f3f0f9283c390eb31de9abe8e5",
+        "size_in_bytes": 8959
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cb778389a15548d4cf6e0cdf367d27627e6d127d5c5fa5ab75eb43950338c56c",
+        "sha256_in_prefix": "cb778389a15548d4cf6e0cdf367d27627e6d127d5c5fa5ab75eb43950338c56c",
+        "size_in_bytes": 83
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "cf9922b00c8e5f04d6bb1b1c957f9b62112f64ab9e142616c190c3331797ddd1",
+        "sha256_in_prefix": "cf9922b00c8e5f04d6bb1b1c957f9b62112f64ab9e142616c190c3331797ddd1",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/datapane-0.13.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "3adfaddd28dc229480bc89c689904b5b6a00d0aea8e06f9ba91235325d3cb79b",
+        "sha256_in_prefix": "3adfaddd28dc229480bc89c689904b5b6a00d0aea8e06f9ba91235325d3cb79b",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "site-packages/datapane/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8dbcffe899db43f9a5c8d3036b50c013905cca7a262c166d77766a3099635be1",
+        "sha256_in_prefix": "8dbcffe899db43f9a5c8d3036b50c013905cca7a262c166d77766a3099635be1",
+        "size_in_bytes": 2131
+      },
+      {
+        "_path": "site-packages/datapane/client/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4db91b4541200be1db6376aa0715bbbd218f7cfc2fbb5cf17314d500de81f854",
+        "sha256_in_prefix": "4db91b4541200be1db6376aa0715bbbd218f7cfc2fbb5cf17314d500de81f854",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "site-packages/datapane/client/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "ec140a0b1135a16341bba36d4bc61e0aa371578b3e00e9ede195e5411caf9b02",
+        "sha256_in_prefix": "ec140a0b1135a16341bba36d4bc61e0aa371578b3e00e9ede195e5411caf9b02",
+        "size_in_bytes": 265
+      },
+      {
+        "_path": "site-packages/datapane/client/analytics.py",
+        "path_type": "hardlink",
+        "sha256": "ae71780e73e4d6709ea1c86cbed6915f13810528534a9400b468c85ba23b1eda",
+        "sha256_in_prefix": "ae71780e73e4d6709ea1c86cbed6915f13810528534a9400b468c85ba23b1eda",
+        "size_in_bytes": 2416
+      },
+      {
+        "_path": "site-packages/datapane/client/api/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a9409524b1228fd1411096ebf080d9a3b329de2c2ddce2b523e60a8c47f08e34",
+        "sha256_in_prefix": "a9409524b1228fd1411096ebf080d9a3b329de2c2ddce2b523e60a8c47f08e34",
+        "size_in_bytes": 2612
+      },
+      {
+        "_path": "site-packages/datapane/client/api/builtins.py",
+        "path_type": "hardlink",
+        "sha256": "303a3176171afae774be686d8e63198eaccae7928ad7293dd94e3aa3f5a25327",
+        "sha256_in_prefix": "303a3176171afae774be686d8e63198eaccae7928ad7293dd94e3aa3f5a25327",
+        "size_in_bytes": 13105
+      },
+      {
+        "_path": "site-packages/datapane/client/api/common.py",
+        "path_type": "hardlink",
+        "sha256": "09e52d86fea796603730d24ccd3ef971d62e094694f5e2fd676f3b87ad5bb301",
+        "sha256_in_prefix": "09e52d86fea796603730d24ccd3ef971d62e094694f5e2fd676f3b87ad5bb301",
+        "size_in_bytes": 10692
+      },
+      {
+        "_path": "site-packages/datapane/client/api/dp_object.py",
+        "path_type": "hardlink",
+        "sha256": "e6f001671abc56e2dfc7da3b264891f2ed2bbd2f61535d99d44adba2c860e011",
+        "sha256_in_prefix": "e6f001671abc56e2dfc7da3b264891f2ed2bbd2f61535d99d44adba2c860e011",
+        "size_in_bytes": 7022
+      },
+      {
+        "_path": "site-packages/datapane/client/api/files.py",
+        "path_type": "hardlink",
+        "sha256": "241ee27d227f24a3156bfcc5fea8c2cafb29d1978a57631f5b6631a8ad87265a",
+        "sha256_in_prefix": "241ee27d227f24a3156bfcc5fea8c2cafb29d1978a57631f5b6631a8ad87265a",
+        "size_in_bytes": 7447
+      },
+      {
+        "_path": "site-packages/datapane/client/api/files_optional.py",
+        "path_type": "hardlink",
+        "sha256": "78a01e71a0ef96bfd3231e50b7b5fadc4c3c198e1d106973d575cc2e4a5c50ed",
+        "sha256_in_prefix": "78a01e71a0ef96bfd3231e50b7b5fadc4c3c198e1d106973d575cc2e4a5c50ed",
+        "size_in_bytes": 1450
+      },
+      {
+        "_path": "site-packages/datapane/client/api/report/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5a84bced827c7d2b965bbf0dc9b5bb1b6a0cc39259458d9fe90bf9b40b300ab9",
+        "sha256_in_prefix": "5a84bced827c7d2b965bbf0dc9b5bb1b6a0cc39259458d9fe90bf9b40b300ab9",
+        "size_in_bytes": 342
+      },
+      {
+        "_path": "site-packages/datapane/client/api/report/blocks.py",
+        "path_type": "hardlink",
+        "sha256": "ebe9ad83583657ec5e08ff292a8680c7f0bb877fd378c3048c41e3334212f074",
+        "sha256_in_prefix": "ebe9ad83583657ec5e08ff292a8680c7f0bb877fd378c3048c41e3334212f074",
+        "size_in_bytes": 29299
+      },
+      {
+        "_path": "site-packages/datapane/client/api/report/core.py",
+        "path_type": "hardlink",
+        "sha256": "1ba489bae45af5d220690613e80fcb42f99fdc4d8643e1c546d0d93f2bcbb63f",
+        "sha256_in_prefix": "1ba489bae45af5d220690613e80fcb42f99fdc4d8643e1c546d0d93f2bcbb63f",
+        "size_in_bytes": 20972
+      },
+      {
+        "_path": "site-packages/datapane/client/api/runtime.py",
+        "path_type": "hardlink",
+        "sha256": "2aca3500bf4b57a90d754b3aaf1300a24304290ed993b00633e1fd464e04f949",
+        "sha256_in_prefix": "2aca3500bf4b57a90d754b3aaf1300a24304290ed993b00633e1fd464e04f949",
+        "size_in_bytes": 2193
+      },
+      {
+        "_path": "site-packages/datapane/client/api/teams.py",
+        "path_type": "hardlink",
+        "sha256": "76aa45d90475dd6bd686c33f3322b11120f9857b886998a232013ba410d3186f",
+        "sha256_in_prefix": "76aa45d90475dd6bd686c33f3322b11120f9857b886998a232013ba410d3186f",
+        "size_in_bytes": 9617
+      },
+      {
+        "_path": "site-packages/datapane/client/api/user.py",
+        "path_type": "hardlink",
+        "sha256": "83fdb3ddf194586a8a39005405745c0e78ffdf1a7bff8e25596543ad94141be8",
+        "sha256_in_prefix": "83fdb3ddf194586a8a39005405745c0e78ffdf1a7bff8e25596543ad94141be8",
+        "size_in_bytes": 6213
+      },
+      {
+        "_path": "site-packages/datapane/client/apps/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "527d819f03e3ee6151a3e456125af0ebbbd88ab4a7acdc8a9502c12b00c87258",
+        "sha256_in_prefix": "527d819f03e3ee6151a3e456125af0ebbbd88ab4a7acdc8a9502c12b00c87258",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/datapane/client/apps/builder.py",
+        "path_type": "hardlink",
+        "sha256": "f6663f8a2a596c9f8fe02454d7ebb74dddb3d0165a62c3f84e5cf99c5c828f68",
+        "sha256_in_prefix": "f6663f8a2a596c9f8fe02454d7ebb74dddb3d0165a62c3f84e5cf99c5c828f68",
+        "size_in_bytes": 6000
+      },
+      {
+        "_path": "site-packages/datapane/client/apps/config.py",
+        "path_type": "hardlink",
+        "sha256": "83d2f1a1f2193dfab6986c495a0ff604d15a558e99bf5a1c3391fec2469f3ca2",
+        "sha256_in_prefix": "83d2f1a1f2193dfab6986c495a0ff604d15a558e99bf5a1c3391fec2469f3ca2",
+        "size_in_bytes": 6817
+      },
+      {
+        "_path": "site-packages/datapane/client/commands.py",
+        "path_type": "hardlink",
+        "sha256": "bac6eaf262481b1d76f115d08d7e80964f4768b0ec7021d58f8bfd7b91c2d73b",
+        "sha256_in_prefix": "bac6eaf262481b1d76f115d08d7e80964f4768b0ec7021d58f8bfd7b91c2d73b",
+        "size_in_bytes": 16116
+      },
+      {
+        "_path": "site-packages/datapane/client/config.py",
+        "path_type": "hardlink",
+        "sha256": "573ba5dfa9ee0ad90a8268bca852238c541b38a0be77d26e2d34553b1ea359cd",
+        "sha256_in_prefix": "573ba5dfa9ee0ad90a8268bca852238c541b38a0be77d26e2d34553b1ea359cd",
+        "size_in_bytes": 5868
+      },
+      {
+        "_path": "site-packages/datapane/client/utils.py",
+        "path_type": "hardlink",
+        "sha256": "ab3d288b61361a19b7cc32e3b0a1f7e613ce96c17300aa6c6f4207d3c2f7d948",
+        "sha256_in_prefix": "ab3d288b61361a19b7cc32e3b0a1f7e613ce96c17300aa6c6f4207d3c2f7d948",
+        "size_in_bytes": 4287
+      },
+      {
+        "_path": "site-packages/datapane/common/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "27354054865078ade391548d6113b2fcb7086c1925c799c7aa768565079d931a",
+        "sha256_in_prefix": "27354054865078ade391548d6113b2fcb7086c1925c799c7aa768565079d931a",
+        "size_in_bytes": 683
+      },
+      {
+        "_path": "site-packages/datapane/common/config.py",
+        "path_type": "hardlink",
+        "sha256": "317eaadb71d79d2e748efbb839910b1265c10c3b6893a38540adf49256bd2030",
+        "sha256_in_prefix": "317eaadb71d79d2e748efbb839910b1265c10c3b6893a38540adf49256bd2030",
+        "size_in_bytes": 2548
+      },
+      {
+        "_path": "site-packages/datapane/common/datafiles.py",
+        "path_type": "hardlink",
+        "sha256": "51289456d32b0c856579e6120e592d55eea5efa5e68550c6c7095e44a3c7e58b",
+        "sha256_in_prefix": "51289456d32b0c856579e6120e592d55eea5efa5e68550c6c7095e44a3c7e58b",
+        "size_in_bytes": 2985
+      },
+      {
+        "_path": "site-packages/datapane/common/df_processor.py",
+        "path_type": "hardlink",
+        "sha256": "38f34c1653c8b07fdea8f6d4bf317e1806c1b4d6d444705615d26d4ce8961cdb",
+        "sha256_in_prefix": "38f34c1653c8b07fdea8f6d4bf317e1806c1b4d6d444705615d26d4ce8961cdb",
+        "size_in_bytes": 7711
+      },
+      {
+        "_path": "site-packages/datapane/common/dp_types.py",
+        "path_type": "hardlink",
+        "sha256": "04b51ba57622a9ae6f7bee80ffa35b8826d75b14b84499143c33b78b3e7a8c54",
+        "sha256_in_prefix": "04b51ba57622a9ae6f7bee80ffa35b8826d75b14b84499143c33b78b3e7a8c54",
+        "size_in_bytes": 1933
+      },
+      {
+        "_path": "site-packages/datapane/common/report.py",
+        "path_type": "hardlink",
+        "sha256": "668543908ca2de05162d505ad2a0ee32a5a3a05023cbf824431739b943bcfc6b",
+        "sha256_in_prefix": "668543908ca2de05162d505ad2a0ee32a5a3a05023cbf824431739b943bcfc6b",
+        "size_in_bytes": 3219
+      },
+      {
+        "_path": "site-packages/datapane/common/utils.py",
+        "path_type": "hardlink",
+        "sha256": "ecaec8dceeb8a434ad1a4a912bc895af6a98da7b7dfde20bd6ad997219462be2",
+        "sha256_in_prefix": "ecaec8dceeb8a434ad1a4a912bc895af6a98da7b7dfde20bd6ad997219462be2",
+        "size_in_bytes": 10560
+      },
+      {
+        "_path": "site-packages/datapane/common/versioning.py",
+        "path_type": "hardlink",
+        "sha256": "d79a7307a29af1ce035c1f94d04fbb1167ef67ce28834174fff3f3696cd13b39",
+        "sha256_in_prefix": "d79a7307a29af1ce035c1f94d04fbb1167ef67ce28834174fff3f3696cd13b39",
+        "size_in_bytes": 1229
+      },
+      {
+        "_path": "site-packages/datapane/resources/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "09aa810aaa2579fe949d9b69d45014b5c48cff599b19ff05d002d3c0373aa570",
+        "sha256_in_prefix": "09aa810aaa2579fe949d9b69d45014b5c48cff599b19ff05d002d3c0373aa570",
+        "size_in_bytes": 94
+      },
+      {
+        "_path": "site-packages/datapane/resources/app_parameter_def.schema.json",
+        "path_type": "hardlink",
+        "sha256": "34ad8e607928458fcd109fe4d7e597eb17b2f487b837282f1a71c0d5c64d536a",
+        "sha256_in_prefix": "34ad8e607928458fcd109fe4d7e597eb17b2f487b837282f1a71c0d5c64d536a",
+        "size_in_bytes": 4615
+      },
+      {
+        "_path": "site-packages/datapane/resources/local_report/README.md",
+        "path_type": "hardlink",
+        "sha256": "cd88e0966337f28bc209dda789ccc392d2d0f71999276c74cb0d97ee12396cba",
+        "sha256_in_prefix": "cd88e0966337f28bc209dda789ccc392d2d0f71999276c74cb0d97ee12396cba",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/datapane/resources/local_report/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/datapane/resources/local_report/datapane-logo-dark.png",
+        "path_type": "hardlink",
+        "sha256": "2ed7c97936b09a6a0d232a29ac91cfd502d4424703be8398e332de484c85f336",
+        "sha256_in_prefix": "2ed7c97936b09a6a0d232a29ac91cfd502d4424703be8398e332de484c85f336",
+        "size_in_bytes": 12468
+      },
+      {
+        "_path": "site-packages/datapane/resources/local_report/local-report-base.css",
+        "path_type": "hardlink",
+        "sha256": "485aed947c362bf64e5be76e85bcd8e005b4445eaae4becb7453ea319afed74f",
+        "sha256_in_prefix": "485aed947c362bf64e5be76e85bcd8e005b4445eaae4becb7453ea319afed74f",
+        "size_in_bytes": 159010
+      },
+      {
+        "_path": "site-packages/datapane/resources/local_report/local-report-base.js",
+        "path_type": "hardlink",
+        "sha256": "fcf7879f34ae631b76d9edec4307887416cfa67364f36d4ef1f37ce194e7d3ec",
+        "sha256_in_prefix": "fcf7879f34ae631b76d9edec4307887416cfa67364f36d4ef1f37ce194e7d3ec",
+        "size_in_bytes": 8400078
+      },
+      {
+        "_path": "site-packages/datapane/resources/local_report/template.html",
+        "path_type": "hardlink",
+        "sha256": "74a9af87de332fa6a5aff40908e3669c2875ddefa034781439b0cfab5b053a1f",
+        "sha256_in_prefix": "74a9af87de332fa6a5aff40908e3669c2875ddefa034781439b0cfab5b053a1f",
+        "size_in_bytes": 2293
+      },
+      {
+        "_path": "site-packages/datapane/resources/mime.types",
+        "path_type": "hardlink",
+        "sha256": "2f9eacdf184a5e084db406bdf95e41a5a16e0522147cca7cf334759f59aa2498",
+        "sha256_in_prefix": "2f9eacdf184a5e084db406bdf95e41a5a16e0522147cca7cf334759f59aa2498",
+        "size_in_bytes": 791
+      },
+      {
+        "_path": "site-packages/datapane/resources/report_def/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/datapane/resources/report_def/full_schema.rnc",
+        "path_type": "hardlink",
+        "sha256": "1d22bff88f8f303c5a4876387a6b15fc0450eb686d3698d18f168a12730662a6",
+        "sha256_in_prefix": "1d22bff88f8f303c5a4876387a6b15fc0450eb686d3698d18f168a12730662a6",
+        "size_in_bytes": 6536
+      },
+      {
+        "_path": "site-packages/datapane/resources/report_def/full_schema.rng",
+        "path_type": "hardlink",
+        "sha256": "29b774847bbdf80699ed709a1d57e76d806ccf3d855df8f60c609035af65407c",
+        "sha256_in_prefix": "29b774847bbdf80699ed709a1d57e76d806ccf3d855df8f60c609035af65407c",
+        "size_in_bytes": 12958
+      },
+      {
+        "_path": "site-packages/datapane/resources/report_def/local_post_process.xslt",
+        "path_type": "hardlink",
+        "sha256": "ba0462d7957dab7cd0f9531b06f5cd25ecacd8662531b8e69db3f7bc19888950",
+        "sha256_in_prefix": "ba0462d7957dab7cd0f9531b06f5cd25ecacd8662531b8e69db3f7bc19888950",
+        "size_in_bytes": 1200
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/app/README.md",
+        "path_type": "hardlink",
+        "sha256": "6a806debcea9e1fbc908773cb34f0fe984c22dff1a2c385d6ebb4cac2c724c92",
+        "sha256_in_prefix": "6a806debcea9e1fbc908773cb34f0fe984c22dff1a2c385d6ebb4cac2c724c92",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/app/datapane.yaml",
+        "path_type": "hardlink",
+        "sha256": "98407bf916dab87e9b58c4fb76f856f9efc8440595dc0776d328d4f214829ab2",
+        "sha256_in_prefix": "98407bf916dab87e9b58c4fb76f856f9efc8440595dc0776d328d4f214829ab2",
+        "size_in_bytes": 413
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/app/dp_app.py",
+        "path_type": "hardlink",
+        "sha256": "e1302c18e66db69945d499f9ed722260f609d2e06473b3a290ac5c2be2e7373f",
+        "sha256_in_prefix": "e1302c18e66db69945d499f9ed722260f609d2e06473b3a290ac5c2be2e7373f",
+        "size_in_bytes": 1384
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/datapane-logo.png",
+        "path_type": "hardlink",
+        "sha256": "e52738c727831ae2f937c0567163aa59ec93f558535e7ba4432ba8a9c04b7479",
+        "sha256_in_prefix": "e52738c727831ae2f937c0567163aa59ec93f558535e7ba4432ba8a9c04b7479",
+        "size_in_bytes": 6506
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/hello/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/hello/hello.py",
+        "path_type": "hardlink",
+        "sha256": "3513a80751930881fa0a2045555564830800f3438c6409850865a373d096a1d7",
+        "sha256_in_prefix": "3513a80751930881fa0a2045555564830800f3438c6409850865a373d096a1d7",
+        "size_in_bytes": 7387
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/hello/world.py",
+        "path_type": "hardlink",
+        "sha256": "e096d684538cf6f41776857522d34f0535888a5fd6eeebfa8d2163ea5766d876",
+        "sha256_in_prefix": "e096d684538cf6f41776857522d34f0535888a5fd6eeebfa8d2163ea5766d876",
+        "size_in_bytes": 914
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/report_ipynb/dp_report.ipynb",
+        "path_type": "hardlink",
+        "sha256": "ce06d6b41ee0626dc956b2bb618322045f23380f151412702dfec29c7ed0fac6",
+        "sha256_in_prefix": "ce06d6b41ee0626dc956b2bb618322045f23380f151412702dfec29c7ed0fac6",
+        "size_in_bytes": 2952
+      },
+      {
+        "_path": "site-packages/datapane/resources/templates/report_py/dp_report.py",
+        "path_type": "hardlink",
+        "sha256": "655bb688c686999186db11f74fc6236002e9ebdc83c3ec2608b441261953b835",
+        "sha256_in_prefix": "655bb688c686999186db11f74fc6236002e9ebdc83c3ec2608b441261953b835",
+        "size_in_bytes": 1387
+      },
+      {
+        "_path": "site-packages/datapane/runner/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2e6c10bf950cbc696dc8d32e5ee3f473075730b2cd92ba59e42ddaec937ba596",
+        "sha256_in_prefix": "2e6c10bf950cbc696dc8d32e5ee3f473075730b2cd92ba59e42ddaec937ba596",
+        "size_in_bytes": 150
+      },
+      {
+        "_path": "site-packages/datapane/runner/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "bb39c6f6b6d13d4ca2ad2cf8206a73b891d644a2f59a1105820fac64c80774fd",
+        "sha256_in_prefix": "bb39c6f6b6d13d4ca2ad2cf8206a73b891d644a2f59a1105820fac64c80774fd",
+        "size_in_bytes": 5360
+      },
+      {
+        "_path": "site-packages/datapane/runner/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "e8a58149eb30b8e3594507c008ec93458856cd0bcdcdeed512688e7b28ccfd46",
+        "sha256_in_prefix": "e8a58149eb30b8e3594507c008ec93458856cd0bcdcdeed512688e7b28ccfd46",
+        "size_in_bytes": 1517
+      },
+      {
+        "_path": "site-packages/datapane/runner/exec_script.py",
+        "path_type": "hardlink",
+        "sha256": "0d3b1973557524fc595a2837b09aab10b6ad3b957f36f17739d3440ea7390826",
+        "sha256_in_prefix": "0d3b1973557524fc595a2837b09aab10b6ad3b957f36f17739d3440ea7390826",
+        "size_in_bytes": 7010
+      },
+      {
+        "_path": "site-packages/datapane/runner/typedefs.py",
+        "path_type": "hardlink",
+        "sha256": "b4cdcc3758ae61e2f13d63396ff9ce415ca55a6be916f820c72a4d93ed673315",
+        "sha256_in_prefix": "b4cdcc3758ae61e2f13d63396ff9ce415ca55a6be916f820c72a4d93ed673315",
+        "size_in_bytes": 839
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/__pycache__/analytics.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/builtins.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/common.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/dp_object.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/files.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/files_optional.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/report/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/report/__pycache__/blocks.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/report/__pycache__/core.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/runtime.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/teams.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/api/__pycache__/user.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/apps/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/apps/__pycache__/builder.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/apps/__pycache__/config.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/__pycache__/commands.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/__pycache__/config.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/client/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/config.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/datafiles.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/df_processor.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/dp_types.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/report.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/common/__pycache__/versioning.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/local_report/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/report_def/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/templates/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/templates/app/__pycache__/dp_app.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/templates/hello/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/templates/hello/__pycache__/hello.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/templates/hello/__pycache__/world.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/resources/templates/report_py/__pycache__/dp_report.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/runner/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/runner/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/runner/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/runner/__pycache__/exec_script.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/datapane/runner/__pycache__/typedefs.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/datapane",
+        "path_type": "unix_python_entry_point"
+      },
+      {
+        "_path": "bin/dp-runner",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "datapane[version='>=0.10.0']",
+  "sha256": "985ba3c9f621e773f3f75b9348ac5453c5caf1afa8044a6e378788937f3be6b6",
+  "size": 2307748,
+  "subdir": "noarch",
+  "timestamp": 1640353339308,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/datapane-0.13.1-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.13.1"
+}

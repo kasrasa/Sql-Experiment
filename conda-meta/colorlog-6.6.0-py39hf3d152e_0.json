@@ -1,0 +1,149 @@
+{
+  "build": "py39hf3d152e_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/colorlog-6.6.0-py39hf3d152e_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/PKG-INFO",
+    "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/SOURCES.txt",
+    "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/dependency_links.txt",
+    "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/requires.txt",
+    "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/top_level.txt",
+    "lib/python3.9/site-packages/colorlog/__init__.py",
+    "lib/python3.9/site-packages/colorlog/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/colorlog/__pycache__/escape_codes.cpython-39.pyc",
+    "lib/python3.9/site-packages/colorlog/__pycache__/formatter.cpython-39.pyc",
+    "lib/python3.9/site-packages/colorlog/__pycache__/wrappers.cpython-39.pyc",
+    "lib/python3.9/site-packages/colorlog/escape_codes.py",
+    "lib/python3.9/site-packages/colorlog/formatter.py",
+    "lib/python3.9/site-packages/colorlog/py.typed",
+    "lib/python3.9/site-packages/colorlog/wrappers.py"
+  ],
+  "fn": "colorlog-6.6.0-py39hf3d152e_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/colorlog-6.6.0-py39hf3d152e_0",
+    "type": 1
+  },
+  "md5": "e92e01447d382d27148dd8bc42550782",
+  "name": "colorlog",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/colorlog-6.6.0-py39hf3d152e_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "acdd04ba639fe0f2f38b66170e689704d2a760f00ce081376afeaf0e6b29a910",
+        "sha256_in_prefix": "acdd04ba639fe0f2f38b66170e689704d2a760f00ce081376afeaf0e6b29a910",
+        "size_in_bytes": 10445
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "e550c81b5cd13482eb291bdfd5a5dbcc3094a36d54f1fddd625d18063aac45b0",
+        "sha256_in_prefix": "e550c81b5cd13482eb291bdfd5a5dbcc3094a36d54f1fddd625d18063aac45b0",
+        "size_in_bytes": 649
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "59c4e444ca13ed6c2d9b3685bd6089b87b239e92f4c89e6d30954c2ca12f12ca",
+        "sha256_in_prefix": "59c4e444ca13ed6c2d9b3685bd6089b87b239e92f4c89e6d30954c2ca12f12ca",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog-6.6.0-py3.9.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "0b336cece2f02f15216d0cc2093da8adeddbfd9cc05eeb30d2d5885fbf625a8c",
+        "sha256_in_prefix": "0b336cece2f02f15216d0cc2093da8adeddbfd9cc05eeb30d2d5885fbf625a8c",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c33c5a874bced87a4985e1b4817638accc7f332158c9f1ec47cad3b9c8393d22",
+        "sha256_in_prefix": "c33c5a874bced87a4985e1b4817638accc7f332158c9f1ec47cad3b9c8393d22",
+        "size_in_bytes": 1180
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9366070c898ed2098256caf205e527e24edb56820609522195ec490680d7b625",
+        "sha256_in_prefix": "9366070c898ed2098256caf205e527e24edb56820609522195ec490680d7b625",
+        "size_in_bytes": 1149
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/__pycache__/escape_codes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c22996d79b0b0e803ed0748f6934c2461fb9b16fdcf48eece4144ea9f59288c9",
+        "sha256_in_prefix": "c22996d79b0b0e803ed0748f6934c2461fb9b16fdcf48eece4144ea9f59288c9",
+        "size_in_bytes": 2325
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/__pycache__/formatter.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "db37393a576254a107eb49c08402673f97cc12ddb29c759d84eb700e8d75f6d0",
+        "sha256_in_prefix": "db37393a576254a107eb49c08402673f97cc12ddb29c759d84eb700e8d75f6d0",
+        "size_in_bytes": 7549
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/__pycache__/wrappers.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3544fbfeb013991b68757f4c65f2cd7436c4633d170d6d3283fe7e312d5c1d7e",
+        "sha256_in_prefix": "3544fbfeb013991b68757f4c65f2cd7436c4633d170d6d3283fe7e312d5c1d7e",
+        "size_in_bytes": 1947
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/escape_codes.py",
+        "path_type": "hardlink",
+        "sha256": "8c5c43bc3c961e4e605f9b47a4520c179a26e76748fe30aac9306678cb67a714",
+        "sha256_in_prefix": "8c5c43bc3c961e4e605f9b47a4520c179a26e76748fe30aac9306678cb67a714",
+        "size_in_bytes": 2437
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/formatter.py",
+        "path_type": "hardlink",
+        "sha256": "a9326eacb3ed5d6cc26c8f50191ea68c2dc6527022201d5c8472e7684116ae2f",
+        "sha256_in_prefix": "a9326eacb3ed5d6cc26c8f50191ea68c2dc6527022201d5c8472e7684116ae2f",
+        "size_in_bytes": 7449
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/colorlog/wrappers.py",
+        "path_type": "hardlink",
+        "sha256": "a5415680f37e4a58da582948573952926b71b182cbb4fa72ae88b21082cea567",
+        "sha256_in_prefix": "a5415680f37e4a58da582948573952926b71b182cbb4fa72ae88b21082cea567",
+        "size_in_bytes": 2174
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "58932e3224397611d6fd6349f491ea3caff58fa4a295be54b7f680b0c49d9682",
+  "size": 16989,
+  "subdir": "linux-64",
+  "timestamp": 1636445615362,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/colorlog-6.6.0-py39hf3d152e_0.tar.bz2",
+  "version": "6.6.0"
+}

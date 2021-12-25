@@ -1,0 +1,209 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/pyviz/noarch",
+  "constrains": [
+    "pyct 0.4.8"
+  ],
+  "depends": [
+    "param >=1.7.0",
+    "python >=2.7"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/pyct-core-0.4.8-py_0",
+  "features": "",
+  "files": [
+    "bin/pyct",
+    "lib/python3.9/site-packages/pyct-0.4.8-py3.8.egg-info/PKG-INFO",
+    "lib/python3.9/site-packages/pyct-0.4.8-py3.8.egg-info/SOURCES.txt",
+    "lib/python3.9/site-packages/pyct-0.4.8-py3.8.egg-info/dependency_links.txt",
+    "lib/python3.9/site-packages/pyct-0.4.8-py3.8.egg-info/entry_points.txt",
+    "lib/python3.9/site-packages/pyct-0.4.8-py3.8.egg-info/requires.txt",
+    "lib/python3.9/site-packages/pyct-0.4.8-py3.8.egg-info/top_level.txt",
+    "lib/python3.9/site-packages/pyct/.version",
+    "lib/python3.9/site-packages/pyct/__init__.py",
+    "lib/python3.9/site-packages/pyct/__main__.py",
+    "lib/python3.9/site-packages/pyct/build.py",
+    "lib/python3.9/site-packages/pyct/cmd.py",
+    "lib/python3.9/site-packages/pyct/report.py",
+    "lib/python3.9/site-packages/pyct/tests/__init__.py",
+    "lib/python3.9/site-packages/pyct/tests/test_cmd.py",
+    "lib/python3.9/site-packages/pyct/tests/test_report.py",
+    "lib/python3.9/site-packages/pyct/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyct/__pycache__/__main__.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyct/__pycache__/build.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyct/__pycache__/cmd.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyct/__pycache__/report.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyct/tests/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyct/tests/__pycache__/test_cmd.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyct/tests/__pycache__/test_report.cpython-39.pyc"
+  ],
+  "fn": "pyct-core-0.4.8-py_0.tar.bz2",
+  "license": "BSD 3-Clause License",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/pyct-core-0.4.8-py_0",
+    "type": 1
+  },
+  "md5": "a6421ccece788ba2f21fb4bf21f1d66e",
+  "name": "pyct-core",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/pyct-core-0.4.8-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/pyct",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/travis/miniconda/conda-bld/pyct-core_1599859954737/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "834635f87c4756efb92ef728047e0741f929c83b4313df1007c15f4eef86c8e8",
+        "sha256_in_prefix": "404cca06e86164160bce1521faa0a9e0ff2c71d81807943d55c10ff7382d96e9",
+        "size_in_bytes": 1193
+      },
+      {
+        "_path": "site-packages/pyct-0.4.8-py3.8.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "27c02dbc4d20653889d4ac91f6749f5ca799d5fa981c22353a638f203385e438",
+        "sha256_in_prefix": "27c02dbc4d20653889d4ac91f6749f5ca799d5fa981c22353a638f203385e438",
+        "size_in_bytes": 8064
+      },
+      {
+        "_path": "site-packages/pyct-0.4.8-py3.8.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "8fc5eca037befaae38d641d38b61e371fd803e6f01b0fe69dfa860b50efd6e42",
+        "sha256_in_prefix": "8fc5eca037befaae38d641d38b61e371fd803e6f01b0fe69dfa860b50efd6e42",
+        "size_in_bytes": 398
+      },
+      {
+        "_path": "site-packages/pyct-0.4.8-py3.8.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/pyct-0.4.8-py3.8.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "1bd6903c41c7bca91bd57623c312080504df4002eaa2d503c3fd225c51569469",
+        "sha256_in_prefix": "1bd6903c41c7bca91bd57623c312080504df4002eaa2d503c3fd225c51569469",
+        "size_in_bytes": 45
+      },
+      {
+        "_path": "site-packages/pyct-0.4.8-py3.8.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "3665ce424854dbe04e53786496e042debfde2448e20236794bab55d6658d6648",
+        "sha256_in_prefix": "3665ce424854dbe04e53786496e042debfde2448e20236794bab55d6658d6648",
+        "size_in_bytes": 124
+      },
+      {
+        "_path": "site-packages/pyct-0.4.8-py3.8.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "66d9944bbe7c1bc541aa45a4d27e5bdf9f1f7a0444c589562e6eacb844197e74",
+        "sha256_in_prefix": "66d9944bbe7c1bc541aa45a4d27e5bdf9f1f7a0444c589562e6eacb844197e74",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pyct/.version",
+        "path_type": "hardlink",
+        "sha256": "649d9c35a9955c82580bf9946587bb4d1b5c1eac5170773857d25238654cee6d",
+        "sha256_in_prefix": "649d9c35a9955c82580bf9946587bb4d1b5c1eac5170773857d25238654cee6d",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "site-packages/pyct/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e657112ec7ce808fc55f2d5355f52ba68a815b15b13a943b659437c83ade3bdb",
+        "sha256_in_prefix": "e657112ec7ce808fc55f2d5355f52ba68a815b15b13a943b659437c83ade3bdb",
+        "size_in_bytes": 280
+      },
+      {
+        "_path": "site-packages/pyct/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "755116e13cfdb23c5c5eb35d557550c92215e72f4c5809cc4c98651c2edb3092",
+        "sha256_in_prefix": "755116e13cfdb23c5c5eb35d557550c92215e72f4c5809cc4c98651c2edb3092",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "site-packages/pyct/build.py",
+        "path_type": "hardlink",
+        "sha256": "0486866281a09d21ca27fc89860ea092a247de91875ee5db5878c69b07471b51",
+        "sha256_in_prefix": "0486866281a09d21ca27fc89860ea092a247de91875ee5db5878c69b07471b51",
+        "size_in_bytes": 1829
+      },
+      {
+        "_path": "site-packages/pyct/cmd.py",
+        "path_type": "hardlink",
+        "sha256": "679dc3de837e1f0f2e7ca9e60225f76a158255c3a16122e95fa6f52590a701f5",
+        "sha256_in_prefix": "679dc3de837e1f0f2e7ca9e60225f76a158255c3a16122e95fa6f52590a701f5",
+        "size_in_bytes": 18368
+      },
+      {
+        "_path": "site-packages/pyct/report.py",
+        "path_type": "hardlink",
+        "sha256": "7705a2a4c437b7e58c31b0fc1b0b113567744656e520ff290973273c8e3abd45",
+        "sha256_in_prefix": "7705a2a4c437b7e58c31b0fc1b0b113567744656e520ff290973273c8e3abd45",
+        "size_in_bytes": 2549
+      },
+      {
+        "_path": "site-packages/pyct/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pyct/tests/test_cmd.py",
+        "path_type": "hardlink",
+        "sha256": "91e95ade35f40db3a642dcc4a8d769eae7d14e3b590161311905ec015a306ea4",
+        "sha256_in_prefix": "91e95ade35f40db3a642dcc4a8d769eae7d14e3b590161311905ec015a306ea4",
+        "size_in_bytes": 9323
+      },
+      {
+        "_path": "site-packages/pyct/tests/test_report.py",
+        "path_type": "hardlink",
+        "sha256": "d731c289290515864fc1ce0f70e39629e01c9e1d46125d0eca3c444f9218a50b",
+        "sha256_in_prefix": "d731c289290515864fc1ce0f70e39629e01c9e1d46125d0eca3c444f9218a50b",
+        "size_in_bytes": 1828
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/__pycache__/__main__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/__pycache__/build.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/__pycache__/cmd.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/__pycache__/report.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/tests/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/tests/__pycache__/test_cmd.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyct/tests/__pycache__/test_report.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 15380,
+  "subdir": "noarch",
+  "timestamp": 1599859962706,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/pyviz/noarch/pyct-core-0.4.8-py_0.tar.bz2",
+  "version": "0.4.8"
+}

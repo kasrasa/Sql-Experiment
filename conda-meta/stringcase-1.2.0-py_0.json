@@ -1,0 +1,99 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/stringcase-1.2.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/stringcase-1.2.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/stringcase-1.2.0.dist-info/LICENSE",
+    "lib/python3.9/site-packages/stringcase-1.2.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/stringcase-1.2.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/stringcase-1.2.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/stringcase-1.2.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/stringcase.py",
+    "lib/python3.9/site-packages/__pycache__/stringcase.cpython-39.pyc"
+  ],
+  "fn": "stringcase-1.2.0-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/stringcase-1.2.0-py_0",
+    "type": 1
+  },
+  "md5": "26a9caf3173939377bac7152379daac0",
+  "name": "stringcase",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/stringcase-1.2.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/stringcase-1.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/stringcase-1.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b8c493354463583e0e8958c2bc6bdec4ebfcb653b39e4ed5522f641689da9ea0",
+        "sha256_in_prefix": "b8c493354463583e0e8958c2bc6bdec4ebfcb653b39e4ed5522f641689da9ea0",
+        "size_in_bytes": 1081
+      },
+      {
+        "_path": "site-packages/stringcase-1.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cd9b786ff55c4aab97320548faaaa637ee1a8e98b43a3be88bd72507df161ca3",
+        "sha256_in_prefix": "cd9b786ff55c4aab97320548faaaa637ee1a8e98b43a3be88bd72507df161ca3",
+        "size_in_bytes": 2711
+      },
+      {
+        "_path": "site-packages/stringcase-1.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ad2ce3afc605de41556093acca7a875b323cf0475bdf3a4c5c89cca5606f2b31",
+        "sha256_in_prefix": "ad2ce3afc605de41556093acca7a875b323cf0475bdf3a4c5c89cca5606f2b31",
+        "size_in_bytes": 586
+      },
+      {
+        "_path": "site-packages/stringcase-1.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "sha256_in_prefix": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/stringcase-1.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe16e5734707a0d68f1c05d239a9d61b85ba6d69474987f674ceb75bf1b12b75",
+        "sha256_in_prefix": "fe16e5734707a0d68f1c05d239a9d61b85ba6d69474987f674ceb75bf1b12b75",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/stringcase.py",
+        "path_type": "hardlink",
+        "sha256": "2056a07cbf392241dadf93beed105a4ae0d8d4f670ee940c571f97f16faa7274",
+        "sha256_in_prefix": "2056a07cbf392241dadf93beed105a4ae0d8d4f670ee940c571f97f16faa7274",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "lib/python3.9/site-packages/__pycache__/stringcase.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ebd515c57537799ee7829055fe9aa93d1c4695334b991fe1de9d7947f53f18f2",
+  "size": 6534,
+  "subdir": "noarch",
+  "timestamp": 1574198216076,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/stringcase-1.2.0-py_0.tar.bz2",
+  "version": "1.2.0"
+}

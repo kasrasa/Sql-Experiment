@@ -1,0 +1,206 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/dominate-2.6.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/LICENSE.txt",
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/dominate-2.6.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/dominate/__init__.py",
+    "lib/python3.9/site-packages/dominate/_version.py",
+    "lib/python3.9/site-packages/dominate/document.py",
+    "lib/python3.9/site-packages/dominate/dom1core.py",
+    "lib/python3.9/site-packages/dominate/dom_tag.py",
+    "lib/python3.9/site-packages/dominate/svg.py",
+    "lib/python3.9/site-packages/dominate/tags.py",
+    "lib/python3.9/site-packages/dominate/util.py",
+    "lib/python3.9/site-packages/dominate/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/dominate/__pycache__/_version.cpython-39.pyc",
+    "lib/python3.9/site-packages/dominate/__pycache__/document.cpython-39.pyc",
+    "lib/python3.9/site-packages/dominate/__pycache__/dom1core.cpython-39.pyc",
+    "lib/python3.9/site-packages/dominate/__pycache__/dom_tag.cpython-39.pyc",
+    "lib/python3.9/site-packages/dominate/__pycache__/svg.cpython-39.pyc",
+    "lib/python3.9/site-packages/dominate/__pycache__/tags.cpython-39.pyc",
+    "lib/python3.9/site-packages/dominate/__pycache__/util.cpython-39.pyc"
+  ],
+  "fn": "dominate-2.6.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "LGPL-3.0-or-later",
+  "license_family": "LGPL",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/dominate-2.6.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "2690e9ce8694bad0de468b5a14bd2ab9",
+  "name": "dominate",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/dominate-2.6.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9ccf26cfe845e0eb8bb58053e47366e7ab6b697ae010f7650978d4b71b7d1fc1",
+        "sha256_in_prefix": "9ccf26cfe845e0eb8bb58053e47366e7ab6b697ae010f7650978d4b71b7d1fc1",
+        "size_in_bytes": 7637
+      },
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "71fa6694c0fa4727806c51342981260bb15fb13f5eccb7437edcac999e1e46ea",
+        "sha256_in_prefix": "71fa6694c0fa4727806c51342981260bb15fb13f5eccb7437edcac999e1e46ea",
+        "size_in_bytes": 13618
+      },
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "08e9f3b9ae824d348cc418918a78759854bbca4909ae64af608335dcb25783ce",
+        "sha256_in_prefix": "08e9f3b9ae824d348cc418918a78759854bbca4909ae64af608335dcb25783ce",
+        "size_in_bytes": 1654
+      },
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "93a3cba65d375fc69b1730410bf01e70d41922f327650c6aee57119d37ab50ba",
+        "sha256_in_prefix": "93a3cba65d375fc69b1730410bf01e70d41922f327650c6aee57119d37ab50ba",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/dominate-2.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "964ab636e1e818bbef8df4a5e8e2c7c8b34189d06e4427f509b5292a11fe9586",
+        "sha256_in_prefix": "964ab636e1e818bbef8df4a5e8e2c7c8b34189d06e4427f509b5292a11fe9586",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/dominate/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a99e822d390833a5d419e0afad6c4e0d30b42b01ea7461e1b8f2bf20eabd14df",
+        "sha256_in_prefix": "a99e822d390833a5d419e0afad6c4e0d30b42b01ea7461e1b8f2bf20eabd14df",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "site-packages/dominate/_version.py",
+        "path_type": "hardlink",
+        "sha256": "6d01b3a6128940a642d2756367c602989d4da4905d2137b4e83e5a9251546da1",
+        "sha256_in_prefix": "6d01b3a6128940a642d2756367c602989d4da4905d2137b4e83e5a9251546da1",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "site-packages/dominate/document.py",
+        "path_type": "hardlink",
+        "sha256": "c0a9078d577860836382d0d4bed91da5b6afdb0ab6f4fe0034132a6c052058ae",
+        "sha256_in_prefix": "c0a9078d577860836382d0d4bed91da5b6afdb0ab6f4fe0034132a6c052058ae",
+        "size_in_bytes": 2217
+      },
+      {
+        "_path": "site-packages/dominate/dom1core.py",
+        "path_type": "hardlink",
+        "sha256": "69b4401552267b246674afde2d413716bd0b7e7206891909cdf29909f2895ea3",
+        "sha256_in_prefix": "69b4401552267b246674afde2d413716bd0b7e7206891909cdf29909f2895ea3",
+        "size_in_bytes": 1760
+      },
+      {
+        "_path": "site-packages/dominate/dom_tag.py",
+        "path_type": "hardlink",
+        "sha256": "1f75a3ba14f9f89973436cc692c6dd3f7d860fe8e879c76e4cbb75b6d21e46b2",
+        "sha256_in_prefix": "1f75a3ba14f9f89973436cc692c6dd3f7d860fe8e879c76e4cbb75b6d21e46b2",
+        "size_in_bytes": 12996
+      },
+      {
+        "_path": "site-packages/dominate/svg.py",
+        "path_type": "hardlink",
+        "sha256": "0c7b656277a1bca6342c8057f81d02a50744cc6526f53d501f14d73605f8e8ac",
+        "sha256_in_prefix": "0c7b656277a1bca6342c8057f81d02a50744cc6526f53d501f14d73605f8e8ac",
+        "size_in_bytes": 9334
+      },
+      {
+        "_path": "site-packages/dominate/tags.py",
+        "path_type": "hardlink",
+        "sha256": "d110bc4475d8735482ce800bd19682897cca88a4a22f5ff8d35700ea287e9c99",
+        "sha256_in_prefix": "d110bc4475d8735482ce800bd19682897cca88a4a22f5ff8d35700ea287e9c99",
+        "size_in_bytes": 28624
+      },
+      {
+        "_path": "site-packages/dominate/util.py",
+        "path_type": "hardlink",
+        "sha256": "e89b9c21cfe29c375a1d2011e726705efb54779b548caaa145cb7ec5a5e42ceb",
+        "sha256_in_prefix": "e89b9c21cfe29c375a1d2011e726705efb54779b548caaa145cb7ec5a5e42ceb",
+        "size_in_bytes": 3906
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/_version.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/document.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/dom1core.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/dom_tag.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/svg.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/tags.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dominate/__pycache__/util.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2a12cc0f881ecffbb1e3ff340c80f4fca8b17497018a38e510977026e16da3bb",
+  "size": 28381,
+  "subdir": "noarch",
+  "timestamp": 1622404794454,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/dominate-2.6.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "2.6.0"
+}

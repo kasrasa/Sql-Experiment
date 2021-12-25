@@ -1,0 +1,104 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/click-spinner-0.1.10-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/click_spinner-0.1.10.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/click_spinner-0.1.10.dist-info/METADATA",
+    "lib/python3.9/site-packages/click_spinner-0.1.10.dist-info/RECORD",
+    "lib/python3.9/site-packages/click_spinner-0.1.10.dist-info/WHEEL",
+    "lib/python3.9/site-packages/click_spinner-0.1.10.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/click_spinner/__init__.py",
+    "lib/python3.9/site-packages/click_spinner/_version.py",
+    "lib/python3.9/site-packages/click_spinner/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/click_spinner/__pycache__/_version.cpython-39.pyc"
+  ],
+  "fn": "click-spinner-0.1.10-pyh9f0ad1d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/click-spinner-0.1.10-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "845773f29e6758e4c330c67b583df2e4",
+  "name": "click-spinner",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/click-spinner-0.1.10-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/click_spinner-0.1.10.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/click_spinner-0.1.10.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c82db74747010fdb97ff5bdb9fc29c0d86d12d41a5c17bbd96d6ba2b45ffec47",
+        "sha256_in_prefix": "c82db74747010fdb97ff5bdb9fc29c0d86d12d41a5c17bbd96d6ba2b45ffec47",
+        "size_in_bytes": 1453
+      },
+      {
+        "_path": "site-packages/click_spinner-0.1.10.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f3c9d8a8420c28e1f20b035c8d09e87f7322db64c7f68771fb7e3823408bd410",
+        "sha256_in_prefix": "f3c9d8a8420c28e1f20b035c8d09e87f7322db64c7f68771fb7e3823408bd410",
+        "size_in_bytes": 697
+      },
+      {
+        "_path": "site-packages/click_spinner-0.1.10.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/click_spinner-0.1.10.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "dc0f7786b904d713aa0c780334e426afe20d29e816eb653b8e8942733cb843d5",
+        "sha256_in_prefix": "dc0f7786b904d713aa0c780334e426afe20d29e816eb653b8e8942733cb843d5",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "site-packages/click_spinner/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4808c69994e5859725ad39a0b15b1ba98cc27a41c3028de859bb583f7b0f05c6",
+        "sha256_in_prefix": "4808c69994e5859725ad39a0b15b1ba98cc27a41c3028de859bb583f7b0f05c6",
+        "size_in_bytes": 2151
+      },
+      {
+        "_path": "site-packages/click_spinner/_version.py",
+        "path_type": "hardlink",
+        "sha256": "e8d164e52ef065bc95fbca5c921a313e82402326beb6ebb2699362eac9472a4c",
+        "sha256_in_prefix": "e8d164e52ef065bc95fbca5c921a313e82402326beb6ebb2699362eac9472a4c",
+        "size_in_bytes": 472
+      },
+      {
+        "_path": "lib/python3.9/site-packages/click_spinner/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/click_spinner/__pycache__/_version.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "857508da91c4f475bd09f8ba2c24f8892cad1050e70a0e47b722977f36c78c94",
+  "size": 7712,
+  "subdir": "noarch",
+  "timestamp": 1587725538669,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/click-spinner-0.1.10-pyh9f0ad1d_0.tar.bz2",
+  "version": "0.1.10"
+}

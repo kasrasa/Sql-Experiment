@@ -1,0 +1,290 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "boltons",
+    "python"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/face-20.1.1-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/face-20.1.1.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/face-20.1.1.dist-info/LICENSE",
+    "lib/python3.9/site-packages/face-20.1.1.dist-info/METADATA",
+    "lib/python3.9/site-packages/face-20.1.1.dist-info/RECORD",
+    "lib/python3.9/site-packages/face-20.1.1.dist-info/WHEEL",
+    "lib/python3.9/site-packages/face-20.1.1.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/face/__init__.py",
+    "lib/python3.9/site-packages/face/command.py",
+    "lib/python3.9/site-packages/face/errors.py",
+    "lib/python3.9/site-packages/face/helpers.py",
+    "lib/python3.9/site-packages/face/middleware.py",
+    "lib/python3.9/site-packages/face/parser.py",
+    "lib/python3.9/site-packages/face/sinter.py",
+    "lib/python3.9/site-packages/face/test/_search_cmd_a.flags",
+    "lib/python3.9/site-packages/face/test/test_basic.py",
+    "lib/python3.9/site-packages/face/test/test_calc_cmd.py",
+    "lib/python3.9/site-packages/face/test/test_help.py",
+    "lib/python3.9/site-packages/face/test/test_mw.py",
+    "lib/python3.9/site-packages/face/test/test_search_cmd.py",
+    "lib/python3.9/site-packages/face/test/test_vcs_cmd.py",
+    "lib/python3.9/site-packages/face/testing.py",
+    "lib/python3.9/site-packages/face/utils.py",
+    "lib/python3.9/site-packages/face/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/command.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/errors.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/helpers.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/middleware.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/parser.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/sinter.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/test/__pycache__/test_basic.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/test/__pycache__/test_calc_cmd.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/test/__pycache__/test_help.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/test/__pycache__/test_mw.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/test/__pycache__/test_search_cmd.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/test/__pycache__/test_vcs_cmd.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/testing.cpython-39.pyc",
+    "lib/python3.9/site-packages/face/__pycache__/utils.cpython-39.pyc"
+  ],
+  "fn": "face-20.1.1-py_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/face-20.1.1-py_0",
+    "type": 1
+  },
+  "md5": "982050c466153e96af957d81b25cdc98",
+  "name": "face",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/face-20.1.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/face-20.1.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/face-20.1.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c642862bf261c6d05d89766e68801bd8225d508205776a04fb1ace9866b5b66f",
+        "sha256_in_prefix": "c642862bf261c6d05d89766e68801bd8225d508205776a04fb1ace9866b5b66f",
+        "size_in_bytes": 1497
+      },
+      {
+        "_path": "site-packages/face-20.1.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e3bf560d235203a229220e38c22b2b69280a63bdf6fc90efb14191802234f428",
+        "sha256_in_prefix": "e3bf560d235203a229220e38c22b2b69280a63bdf6fc90efb14191802234f428",
+        "size_in_bytes": 846
+      },
+      {
+        "_path": "site-packages/face-20.1.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "89fa8fc76195e83bb7ce81fed65d2faa18d315327caf402f366d076a870e0e14",
+        "sha256_in_prefix": "89fa8fc76195e83bb7ce81fed65d2faa18d315327caf402f366d076a870e0e14",
+        "size_in_bytes": 2055
+      },
+      {
+        "_path": "site-packages/face-20.1.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "sha256_in_prefix": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/face-20.1.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "98d57c25a2bed283c090bc2508078faff041262880bec9b6b744e6372d4a5f09",
+        "sha256_in_prefix": "98d57c25a2bed283c090bc2508078faff041262880bec9b6b744e6372d4a5f09",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/face/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8178c00a4e89cca56b772ec5ffc83f1d0f9438b945efa7c54e2d17c822cf975e",
+        "sha256_in_prefix": "8178c00a4e89cca56b772ec5ffc83f1d0f9438b945efa7c54e2d17c822cf975e",
+        "size_in_bytes": 889
+      },
+      {
+        "_path": "site-packages/face/command.py",
+        "path_type": "hardlink",
+        "sha256": "6fcff9d3aba228261dd2b20a1d114892159a508162a203f4acffea8bfb923908",
+        "sha256_in_prefix": "6fcff9d3aba228261dd2b20a1d114892159a508162a203f4acffea8bfb923908",
+        "size_in_bytes": 15402
+      },
+      {
+        "_path": "site-packages/face/errors.py",
+        "path_type": "hardlink",
+        "sha256": "2617e5ffbd80f92e075d474bdd5e1ce623572930f6875bb428846611db8661e5",
+        "sha256_in_prefix": "2617e5ffbd80f92e075d474bdd5e1ce623572930f6875bb428846611db8661e5",
+        "size_in_bytes": 5261
+      },
+      {
+        "_path": "site-packages/face/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "205c4e53f04b6a890a3aa8fa8aa863d5a2af6a8732a22a8e7c1b904408cc1f49",
+        "sha256_in_prefix": "205c4e53f04b6a890a3aa8fa8aa863d5a2af6a8732a22a8e7c1b904408cc1f49",
+        "size_in_bytes": 19151
+      },
+      {
+        "_path": "site-packages/face/middleware.py",
+        "path_type": "hardlink",
+        "sha256": "d16b5eb5b5b38b191a292fdcd04c7cdfa28a48b3bb21fcd236584f74917d5127",
+        "sha256_in_prefix": "d16b5eb5b5b38b191a292fdcd04c7cdfa28a48b3bb21fcd236584f74917d5127",
+        "size_in_bytes": 11654
+      },
+      {
+        "_path": "site-packages/face/parser.py",
+        "path_type": "hardlink",
+        "sha256": "b15327d7a56cddea6e0ed672fd6173a53ad228891f3a50ba97025e1f624e37a0",
+        "sha256_in_prefix": "b15327d7a56cddea6e0ed672fd6173a53ad228891f3a50ba97025e1f624e37a0",
+        "size_in_bytes": 42587
+      },
+      {
+        "_path": "site-packages/face/sinter.py",
+        "path_type": "hardlink",
+        "sha256": "4be73b753d431ddd5f789a167ef89be4d2c0d7a058f3fbdd45f7283453bddfd5",
+        "sha256_in_prefix": "4be73b753d431ddd5f789a167ef89be4d2c0d7a058f3fbdd45f7283453bddfd5",
+        "size_in_bytes": 5650
+      },
+      {
+        "_path": "site-packages/face/test/_search_cmd_a.flags",
+        "path_type": "hardlink",
+        "sha256": "47f0b53245ff8b1730bf41dbcc22f1bc116375df3355cf8a90836315add390f7",
+        "sha256_in_prefix": "47f0b53245ff8b1730bf41dbcc22f1bc116375df3355cf8a90836315add390f7",
+        "size_in_bytes": 25
+      },
+      {
+        "_path": "site-packages/face/test/test_basic.py",
+        "path_type": "hardlink",
+        "sha256": "7cda545c21d3095f8ed9555b707c0a636e5411d77ab96cc5c4c6c46867dd34d2",
+        "sha256_in_prefix": "7cda545c21d3095f8ed9555b707c0a636e5411d77ab96cc5c4c6c46867dd34d2",
+        "size_in_bytes": 7811
+      },
+      {
+        "_path": "site-packages/face/test/test_calc_cmd.py",
+        "path_type": "hardlink",
+        "sha256": "27107bb08e1536f16899d134afb91b7d23a73be8cf6b2cea7a5038be7b9758cd",
+        "sha256_in_prefix": "27107bb08e1536f16899d134afb91b7d23a73be8cf6b2cea7a5038be7b9758cd",
+        "size_in_bytes": 5601
+      },
+      {
+        "_path": "site-packages/face/test/test_help.py",
+        "path_type": "hardlink",
+        "sha256": "dc7defd59eac7c3a19af8b99d4634c9cdb3a4e3f1297ef84bfb7b36d8c643b78",
+        "sha256_in_prefix": "dc7defd59eac7c3a19af8b99d4634c9cdb3a4e3f1297ef84bfb7b36d8c643b78",
+        "size_in_bytes": 3379
+      },
+      {
+        "_path": "site-packages/face/test/test_mw.py",
+        "path_type": "hardlink",
+        "sha256": "c6562bb28e398e3706f04a3dddf655655a782974251cc4418800f5c2d46282d2",
+        "sha256_in_prefix": "c6562bb28e398e3706f04a3dddf655655a782974251cc4418800f5c2d46282d2",
+        "size_in_bytes": 2341
+      },
+      {
+        "_path": "site-packages/face/test/test_search_cmd.py",
+        "path_type": "hardlink",
+        "sha256": "06c1e0771140bcbb7f147be4305b7a11fea24086aceed813b6582d440fc5e3a1",
+        "sha256_in_prefix": "06c1e0771140bcbb7f147be4305b7a11fea24086aceed813b6582d440fc5e3a1",
+        "size_in_bytes": 8213
+      },
+      {
+        "_path": "site-packages/face/test/test_vcs_cmd.py",
+        "path_type": "hardlink",
+        "sha256": "45a7b46a93a6792d57d95ee432430d1b311dbec340abd979832e00157f25afe9",
+        "sha256_in_prefix": "45a7b46a93a6792d57d95ee432430d1b311dbec340abd979832e00157f25afe9",
+        "size_in_bytes": 903
+      },
+      {
+        "_path": "site-packages/face/testing.py",
+        "path_type": "hardlink",
+        "sha256": "5fde0d113f3fb19ae38659af97e474b6cd6defe96f6306c6b5f3cd0f3fbed433",
+        "sha256_in_prefix": "5fde0d113f3fb19ae38659af97e474b6cd6defe96f6306c6b5f3cd0f3fbed433",
+        "size_in_bytes": 10725
+      },
+      {
+        "_path": "site-packages/face/utils.py",
+        "path_type": "hardlink",
+        "sha256": "c4249435d063b1d3ff01f85577cdd14db0e7b3c46063840c9e7b9f46cc18c46c",
+        "sha256_in_prefix": "c4249435d063b1d3ff01f85577cdd14db0e7b3c46063840c9e7b9f46cc18c46c",
+        "size_in_bytes": 10565
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/command.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/errors.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/helpers.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/middleware.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/parser.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/sinter.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/test/__pycache__/test_basic.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/test/__pycache__/test_calc_cmd.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/test/__pycache__/test_help.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/test/__pycache__/test_mw.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/test/__pycache__/test_search_cmd.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/test/__pycache__/test_vcs_cmd.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/testing.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/face/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "258cf70bccf79598aac0b2dfb679037fadf8cf431350f8db570d368e2adffb6a",
+  "size": 42565,
+  "subdir": "noarch",
+  "timestamp": 1579724635371,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/face-20.1.1-py_0.tar.bz2",
+  "version": "20.1.1"
+}

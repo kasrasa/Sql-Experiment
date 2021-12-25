@@ -1,0 +1,194 @@
+{
+  "build": "pyhd3deb0d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "dataclasses",
+    "python"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/dacite-1.6.0-pyhd3deb0d_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/dacite-1.6.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/dacite-1.6.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/dacite-1.6.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/dacite-1.6.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/dacite-1.6.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/dacite-1.6.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/dacite-1.6.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/dacite/__init__.py",
+    "lib/python3.9/site-packages/dacite/config.py",
+    "lib/python3.9/site-packages/dacite/core.py",
+    "lib/python3.9/site-packages/dacite/data.py",
+    "lib/python3.9/site-packages/dacite/dataclasses.py",
+    "lib/python3.9/site-packages/dacite/exceptions.py",
+    "lib/python3.9/site-packages/dacite/py.typed",
+    "lib/python3.9/site-packages/dacite/types.py",
+    "lib/python3.9/site-packages/dacite/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/dacite/__pycache__/config.cpython-39.pyc",
+    "lib/python3.9/site-packages/dacite/__pycache__/core.cpython-39.pyc",
+    "lib/python3.9/site-packages/dacite/__pycache__/data.cpython-39.pyc",
+    "lib/python3.9/site-packages/dacite/__pycache__/dataclasses.cpython-39.pyc",
+    "lib/python3.9/site-packages/dacite/__pycache__/exceptions.cpython-39.pyc",
+    "lib/python3.9/site-packages/dacite/__pycache__/types.cpython-39.pyc"
+  ],
+  "fn": "dacite-1.6.0-pyhd3deb0d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/dacite-1.6.0-pyhd3deb0d_0",
+    "type": 1
+  },
+  "md5": "be6c13533b7d8d78e40b82009e3dbfa9",
+  "name": "dacite",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/dacite-1.6.0-pyhd3deb0d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/dacite-1.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dacite-1.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "913aeb29eafe1ceaf47fce931effc4d6bcb87f41315e02edbaefe43058aa5aaf",
+        "sha256_in_prefix": "913aeb29eafe1ceaf47fce931effc4d6bcb87f41315e02edbaefe43058aa5aaf",
+        "size_in_bytes": 14118
+      },
+      {
+        "_path": "site-packages/dacite-1.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "31bdaf2a94f7ec82402b6eb41a2a8867e79519a717764969329dddd85e711503",
+        "sha256_in_prefix": "31bdaf2a94f7ec82402b6eb41a2a8867e79519a717764969329dddd85e711503",
+        "size_in_bytes": 1470
+      },
+      {
+        "_path": "site-packages/dacite-1.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/dacite-1.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4bacde3c36d4023ccc9a960e8367070f1b98156c3b5a2397b7aa2033a8480794",
+        "sha256_in_prefix": "4bacde3c36d4023ccc9a960e8367070f1b98156c3b5a2397b7aa2033a8480794",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/dacite-1.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2be072b1b209e2da247641c07d3399d54e5b9668d0c7167a3e64ce7493a9569d",
+        "sha256_in_prefix": "2be072b1b209e2da247641c07d3399d54e5b9668d0c7167a3e64ce7493a9569d",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/dacite-1.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "141b626aef657b42cde0a56e444525e1f6892796517bbd30cad5176d8a97f141",
+        "sha256_in_prefix": "141b626aef657b42cde0a56e444525e1f6892796517bbd30cad5176d8a97f141",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/dacite/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a36460d6310ae40f0727b8f0b1d1ded25932bde4877dc22af3fe2898fe97bf94",
+        "sha256_in_prefix": "a36460d6310ae40f0727b8f0b1d1ded25932bde4877dc22af3fe2898fe97bf94",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "site-packages/dacite/config.py",
+        "path_type": "hardlink",
+        "sha256": "774ce53be8ea852be95d6e771a27bdeec2643cccdbbaf1db7ac201c14d5fd4c5",
+        "sha256_in_prefix": "774ce53be8ea852be95d6e771a27bdeec2643cccdbbaf1db7ac201c14d5fd4c5",
+        "size_in_bytes": 407
+      },
+      {
+        "_path": "site-packages/dacite/core.py",
+        "path_type": "hardlink",
+        "sha256": "ead48a2c578f25da0337ce8830bfc9aa9594cfc571c3d61f44e01b8dd17efbbf",
+        "sha256_in_prefix": "ead48a2c578f25da0337ce8830bfc9aa9594cfc571c3d61f44e01b8dd17efbbf",
+        "size_in_bytes": 5523
+      },
+      {
+        "_path": "site-packages/dacite/data.py",
+        "path_type": "hardlink",
+        "sha256": "61291035aa2445072c054e6c71cfa0f54c37106026fb169b18e1304e099851ee",
+        "sha256_in_prefix": "61291035aa2445072c054e6c71cfa0f54c37106026fb169b18e1304e099851ee",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "site-packages/dacite/dataclasses.py",
+        "path_type": "hardlink",
+        "sha256": "9a40fcc2fded58d205fc26bc7d431bee5c45c4cd28f31d2f41b9e365e287db1c",
+        "sha256_in_prefix": "9a40fcc2fded58d205fc26bc7d431bee5c45c4cd28f31d2f41b9e365e287db1c",
+        "size_in_bytes": 1044
+      },
+      {
+        "_path": "site-packages/dacite/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "a7cee2271e8e1ffb22c12f9b50b69da9679bd56ed580ba82b690dabd5e12765d",
+        "sha256_in_prefix": "a7cee2271e8e1ffb22c12f9b50b69da9679bd56ed580ba82b690dabd5e12765d",
+        "size_in_bytes": 2587
+      },
+      {
+        "_path": "site-packages/dacite/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/dacite/types.py",
+        "path_type": "hardlink",
+        "sha256": "b113c387c145fab5b2fdc3edb815826afaad3497a87e1f404329d812667f4a4e",
+        "sha256_in_prefix": "b113c387c145fab5b2fdc3edb815826afaad3497a87e1f404329d812667f4a4e",
+        "size_in_bytes": 5823
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dacite/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dacite/__pycache__/config.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dacite/__pycache__/core.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dacite/__pycache__/data.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dacite/__pycache__/dataclasses.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dacite/__pycache__/exceptions.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/dacite/__pycache__/types.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a5079effe8ee424746744a332a6fb8769d30b7877dd555f6e6fe4bfd954621d3",
+  "size": 14408,
+  "subdir": "noarch",
+  "timestamp": 1607203232344,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/dacite-1.6.0-pyhd3deb0d_0.tar.bz2",
+  "version": "1.6.0"
+}

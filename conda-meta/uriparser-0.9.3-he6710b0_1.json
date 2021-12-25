@@ -1,0 +1,150 @@
+{
+  "build": "he6710b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0"
+  ],
+  "extracted_package_dir": "/home/kasra/anaconda3/pkgs/uriparser-0.9.3-he6710b0_1",
+  "features": "",
+  "files": [
+    "include/uriparser/Uri.h",
+    "include/uriparser/UriBase.h",
+    "include/uriparser/UriDefsAnsi.h",
+    "include/uriparser/UriDefsConfig.h",
+    "include/uriparser/UriDefsUnicode.h",
+    "include/uriparser/UriIp4.h",
+    "lib/cmake/uriparser-0.9.3/uriparser-config-version.cmake",
+    "lib/cmake/uriparser-0.9.3/uriparser-config.cmake",
+    "lib/cmake/uriparser-0.9.3/uriparser-release.cmake",
+    "lib/cmake/uriparser-0.9.3/uriparser.cmake",
+    "lib/liburiparser.so",
+    "lib/liburiparser.so.1",
+    "lib/liburiparser.so.1.0.26",
+    "lib/pkgconfig/liburiparser.pc"
+  ],
+  "fn": "uriparser-0.9.3-he6710b0_1.conda",
+  "legacy_bz2_md5": "641c1137a01009899cab025ece8100d5",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/kasra/anaconda3/pkgs/uriparser-0.9.3-he6710b0_1",
+    "type": 1
+  },
+  "md5": "6aacd7a5a8e9eb685de5590478ee9844",
+  "name": "uriparser",
+  "package_tarball_full_path": "/home/kasra/anaconda3/pkgs/uriparser-0.9.3-he6710b0_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/uriparser/Uri.h",
+        "path_type": "hardlink",
+        "sha256": "ad0e683b186085b0437fe0156660b977421dc69c207d92f11bbcce2bc32d9350",
+        "sha256_in_prefix": "ad0e683b186085b0437fe0156660b977421dc69c207d92f11bbcce2bc32d9350",
+        "size_in_bytes": 37184
+      },
+      {
+        "_path": "include/uriparser/UriBase.h",
+        "path_type": "hardlink",
+        "sha256": "a019c4df062bf390abf96687a3f787371db0e9e1220e4b0d4d7a035da7b9f50f",
+        "sha256_in_prefix": "a019c4df062bf390abf96687a3f787371db0e9e1220e4b0d4d7a035da7b9f50f",
+        "size_in_bytes": 12532
+      },
+      {
+        "_path": "include/uriparser/UriDefsAnsi.h",
+        "path_type": "hardlink",
+        "sha256": "b9f917178b8da2f54f55101144c2a708bc3af76efef5abdaeffd236c91f03532",
+        "sha256_in_prefix": "b9f917178b8da2f54f55101144c2a708bc3af76efef5abdaeffd236c91f03532",
+        "size_in_bytes": 2580
+      },
+      {
+        "_path": "include/uriparser/UriDefsConfig.h",
+        "path_type": "hardlink",
+        "sha256": "63077611cc2de1e99de4076e5ce39d5a964b269649e2cc527ea1d0869d346754",
+        "sha256_in_prefix": "63077611cc2de1e99de4076e5ce39d5a964b269649e2cc527ea1d0869d346754",
+        "size_in_bytes": 3288
+      },
+      {
+        "_path": "include/uriparser/UriDefsUnicode.h",
+        "path_type": "hardlink",
+        "sha256": "3a584d9a343eb5517ccd3b50e158c2385a4de8ea7f96d6bad05b1cca0ae2679e",
+        "sha256_in_prefix": "3a584d9a343eb5517ccd3b50e158c2385a4de8ea7f96d6bad05b1cca0ae2679e",
+        "size_in_bytes": 2593
+      },
+      {
+        "_path": "include/uriparser/UriIp4.h",
+        "path_type": "hardlink",
+        "sha256": "3ee411f1073a09e93dadf99ef03257b9818be2fb4b6a6cafa2f62ed78b49b3ab",
+        "sha256_in_prefix": "3ee411f1073a09e93dadf99ef03257b9818be2fb4b6a6cafa2f62ed78b49b3ab",
+        "size_in_bytes": 3457
+      },
+      {
+        "_path": "lib/cmake/uriparser-0.9.3/uriparser-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "49d8b5df7849159e80fdad41aeb47fa7314e9934f14b119115c11c22d7544941",
+        "sha256_in_prefix": "49d8b5df7849159e80fdad41aeb47fa7314e9934f14b119115c11c22d7544941",
+        "size_in_bytes": 1723
+      },
+      {
+        "_path": "lib/cmake/uriparser-0.9.3/uriparser-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "d61f2b3709ea64e98a193ba5e0f588ea6e452862d56ab7183f7dc138f78a9753",
+        "sha256_in_prefix": "d61f2b3709ea64e98a193ba5e0f588ea6e452862d56ab7183f7dc138f78a9753",
+        "size_in_bytes": 3066
+      },
+      {
+        "_path": "lib/cmake/uriparser-0.9.3/uriparser-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "65e7bb09eba6a3dc683e5c4b4125285ff2e1996898a1cc6ff63677b1c5e3aa24",
+        "sha256_in_prefix": "65e7bb09eba6a3dc683e5c4b4125285ff2e1996898a1cc6ff63677b1c5e3aa24",
+        "size_in_bytes": 879
+      },
+      {
+        "_path": "lib/cmake/uriparser-0.9.3/uriparser.cmake",
+        "path_type": "hardlink",
+        "sha256": "b1b2617a318618d567a24d597b94e7adc79a0734ea3b87c75994bb627b62738a",
+        "sha256_in_prefix": "b1b2617a318618d567a24d597b94e7adc79a0734ea3b87c75994bb627b62738a",
+        "size_in_bytes": 3320
+      },
+      {
+        "_path": "lib/liburiparser.so",
+        "path_type": "softlink",
+        "sha256": "1cf9756943c0e886148cc8d57ee1bbf4bd7a7c1706498c851e31adf0b3cd6601",
+        "size_in_bytes": 90808
+      },
+      {
+        "_path": "lib/liburiparser.so.1",
+        "path_type": "softlink",
+        "sha256": "1cf9756943c0e886148cc8d57ee1bbf4bd7a7c1706498c851e31adf0b3cd6601",
+        "size_in_bytes": 90808
+      },
+      {
+        "_path": "lib/liburiparser.so.1.0.26",
+        "path_type": "hardlink",
+        "sha256": "1cf9756943c0e886148cc8d57ee1bbf4bd7a7c1706498c851e31adf0b3cd6601",
+        "sha256_in_prefix": "1cf9756943c0e886148cc8d57ee1bbf4bd7a7c1706498c851e31adf0b3cd6601",
+        "size_in_bytes": 90808
+      },
+      {
+        "_path": "lib/pkgconfig/liburiparser.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "7d0f6b5ec5c6909e95c2b47b69affe1919845164dfcf73fda37b3564c124b9a0",
+        "sha256_in_prefix": "f1fbfcaa5b9589bcc854df8fda74ea679204a6029677d3daf37e1df9ed2c761c",
+        "size_in_bytes": 351
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "40e2fc22714db0af94b2afdc6efd98a23e3d3f9a8e0a7a7a986667cf7769a617",
+  "size": 48724,
+  "subdir": "linux-64",
+  "timestamp": 1580397170986,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/uriparser-0.9.3-he6710b0_1.conda",
+  "version": "0.9.3"
+}
