@@ -1,3 +1,2 @@
 * linguist-vendored
-*.ipynb linguist-vendored=False
 *.sql linguist-vendored=False
